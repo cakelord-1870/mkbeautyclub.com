@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mkbeautyclub.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mkbeautyclub.com/collections/nails-collection-menu.atom"/>
+  <title>Mk Beauty Club</title>
+  <updated>2021-06-22T18:10:58-07:00</updated>
+  <author>
+    <name>Mk Beauty Club</name>
+  </author>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147737669</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n76-from-dusk-til-dune-gelcolor"/>
+    <title>OPI Gel Polish #N76 From Dusk til Dune - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/from-dusk-til-dune-mani_b57bb5cb-c889-407c-8559-009554405c3b.jpg?v=1624398303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147737669</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN76</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147704901</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n77-coastal-sand-tuary-gelcolor"/>
+    <title>OPI Gel Polish #N77 Coastal Sand-tuary - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/coastal-sand-tuary-gcn77-99350080994-gel-nail-polish_0.jpg?v=1624403708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147704901</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN77</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147672133</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n78-el-mat-adoring-you-gelcolor"/>
+    <title>OPI Gel Polish #N78 El Mat-adoring You - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/el-mat-adoring-you-gcn78-99350080991-gel-nail-polish_0.jpg?v=1624414990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147672133</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN78</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147573829</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n79-endless-sun-ner-gelcolor"/>
+    <title>OPI Gel Polish #N79 Endless Sun-ner - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/endless-sun-ner-gcn79-99350080992-gel-nail-polish.jpg?v=1624414992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147573829</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN79</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147541061</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n80-cliffside-karaoke-gelcolor"/>
+    <title>OPI Gel Polish #N80 Cliffside Karaoke - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/cliffside-karaoke-gcn80-99350080999-gel-nail-polish.jpg?v=1624398298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147541061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN80</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147475525</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n81-bonfire-serenade-gelcolor"/>
+    <title>OPI Gel Polish #N81 Bonfire Serenade - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/bonfire-serenade-gcn81-99350080998-gel-nail-polish_0.jpg?v=1624414996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147475525</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN81</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147442757</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n82-marigolden-hour-gelcolor"/>
+    <title>OPI Gel Polish #N82 Marigolden Hour - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/marigolden-hour-gcn82-99350080995-gel-nail-polish.jpg?v=1624398296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147442757</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN82</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147409989</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n83-pch-love-song-gelcolor"/>
+    <title>OPI Gel Polish #N83 PCH Love Song - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/pch-love-song-gcn83-99350081000-gel-nail-polish_1.jpg?v=1624415013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147409989</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN83</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147377221</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n84-strawberry-waves-forever-gelcolor"/>
+    <title>OPI Gel Polish #N84 Strawberry Waves Forever - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/strawberry-waves-forever-gcn84-99350081001-gel-nail-polish.jpg?v=1624398293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147377221</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN84</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147344453</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n85-the-sound-of-vibrance-gelcolor"/>
+    <title>OPI Gel Polish #N85 The Sound of Vibrance - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/the-sound-of-vibrance-gcn85-99350080996-gel-nail-polish.jpg?v=1624415155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147344453</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN85</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147311685</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n86-pear-adise-cove-gelcolor"/>
+    <title>OPI Gel Polish #N86 Pear-adise Cove - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/pear-adise-cove-gcn86-99350080997-gel-nail-polish.jpg?v=1624398289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147311685</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN86</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147278917</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-gel-polish-n87-mali-blue-shore-gelcolor"/>
+    <title>OPI Gel Polish #N87 Mali-blue Shore - GelColor</title>
+    <s:type>Gel Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/mali-blue-shore-mani_b4a836bb-6bf7-4ebe-8c30-4b61c348a493.jpg?v=1624398289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Gel Polish<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Shine-intense OPI GelColor nail shades cure in 30 seconds under a LED light and last for weeks.</h2> <ul> <li>Up to 3 weeks of shine-intense wear and stay-true color.</li> <li>Soak-off removal</li> <li>Fully cures in 30 seconds under OPI LED Light, so your nails are 100% dry and smudge-proof immediately after gel manicure service.</li> <li>Quick service time.</li> <li>Lightweight feel on fingers</li> </ul> <br> Made in the USA.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>Gel Color</s:tag>
+    <s:tag>gel polish</s:tag>
+    <s:tag>GelColor</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>product line:GelColor</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147278917</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>OPGCN87</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147246149</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n76-from-dusk-til-dune-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N76 From Dusk til Dune - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/from-dusk-til-dune-isln76-99350080984-long-lasting-nail-polish_1.jpg?v=1624398288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147246149</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN76</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147213381</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n78-el-mat-adoring-you-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N78 El Mat-adoring You - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/el-mat-adoring-you-isln78-99350080980-long-lasting-nail-polish_7.jpg?v=1624415053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147213381</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN78</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147180613</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n77-coastal-sand-tuary-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N77 Coastal Sand-tuary - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/coastal-sand-tuary-isln77-99350080977-long-lasting-nail-polish_0.jpg?v=1624415133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147180613</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN77</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147147845</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n79-endless-sun-ner-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N79 Endless Sun-ner - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/endless-sun-ner-isln79-99350080982-long-lasting-nail-polish_0.jpg?v=1624415030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147147845</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN79</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147115077</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n80-cliffside-karaoke-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N80 Cliffside Karaoke - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/cliffside-karaoke-isln80-99350080985-long-lasting-nail-polish_0.jpg?v=1624415049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147115077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN80</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147082309</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n81-bonfire-serenade-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N81 Bonfire Serenade - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/bonfire-serenade-isln81-99350080981-long-lasting-nail-polish.jpg?v=1624415046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147082309</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN81</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147049541</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n82-marigolden-hour-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N82 Marigolden Hour - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/marigolden-hour-isln82-99350080987-long-lasting-nail-polish.jpg?v=1624398282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147049541</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN82</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610147016773</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n83-pch-love-song-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N83 PCH Love Song - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/pch-love-song-isln83-99350080978-long-lasting-nail-polish_0.jpg?v=1624415033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610147016773</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN83</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610146984005</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n84-strawberry-waves-forever-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N84 Strawberry Waves Forever - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/strawberry-waves-forever-isln84-99350080986-long-lasting-nail-polish_0.jpg?v=1624415043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610146984005</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN84</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610146951237</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n85-the-sound-of-vibrance-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N85 The Sound of Vibrance - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/the-sound-of-vibrance-isln85-99350080983-long-lasting-nail-polish_0.jpg?v=1624415059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610146951237</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN85</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610146918469</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n86-pear-adise-cove-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N86 Pear-adise Cove - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/pear-adise-cove-isln86-99350080988-long-lasting-nail-polish_0.jpg?v=1624415177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610146918469</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN86</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610146885701</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-long-lasting-nail-polish-n87-mali-blue-shore-infinite-shine"/>
+    <title>OPI Long Lasting Nail Polish #N87 Mali-blue Shore - Infinite Shine</title>
+    <s:type>Long Lasting Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/mali-blue-shore-isln87-99350080979-long-lasting-nail-polish_0.jpg?v=1624415182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Long Lasting Nail Polish<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Stay-true color and shine for up to 11 days of wear with ProStay Technology</h2> <ul> <li>Gel-like high shine finish.</li> <li>Applies and removes easily like a regular nail polish. Soak free removal. </li> <li>No UV or LED light needed.</li> </ul> The Infinite Shine system of products combine for longer-lasting color and shine: <ol> <li>
+<strong>Step 1 Primer:</strong> Goes beyond base - it actually primes nails for a revolutionary grip on color while preventing staining.</li> <li>
+<strong>Step 2 Lacquer</strong>: Delivers real depth with ultra-rich, vivid color.</li> <li>
+<strong>Step 3 Gloss</strong>: Promises gel-like durability - the state-of-the-art formula includes gel polymers that cures to a hard film in natural light, yet removes easily without soaking.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Infinite shine</s:tag>
+    <s:tag>long lasting nail polish</s:tag>
+    <s:tag>long lasting polish</s:tag>
+    <s:tag>long wear polish</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Infinite Shine</s:tag>
+    <s:tag>product line:Infinite Shine</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610146885701</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.50</s:price>
+      <s:sku>OPISLN87</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6610146852933</id>
+    <published>2021-06-22T18:10:58-07:00</published>
+    <updated>2021-06-22T18:10:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-nail-polish-n77-coastal-sand-tuary-nail-lacquer"/>
+    <title>OPI Nail Polish #N77 Coastal Sand-tuary - Nail Lacquer</title>
+    <s:type>Nail Polish</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/coastal-sand-tuary-nln77-99350080959-nail-lacquer.jpg?v=1624415190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Nail Polish<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>OPI Nail lacquer is the original nail polish formula that reinvented quality nail color. </h2> <h3>Benefits:</h3> <ul> <li>Available in 200+ including OPI's most iconic shades.</li> <li>Up to 7 days of wear.</li> <li>For best results, use with OPI Natural Base Coat and OPI Top Coat.</li> </ul> <h3>How to use:</h3> <ol> <li>
+<strong>Step 1</strong>. Start by applying OPI Base Coat to clean, dry nails with cuticles pushed back.</li> <li>
+<strong>Step 2.</strong> For a perfect polish, apply one stroke of nail lacquer down the center of the nail, followed by one stroke along each side of the nail.</li> <li>
+<strong>Step 3.</strong> Then apply a second coat of nail lacquer, pulling color over the tips of the nails.</li> <li>
+<strong>Step 4.</strong> Shine, seal, and protect with one coat of OPI Top Coat , pulling it over the tips of the nails.</li> <li>
+<strong>Step 5.</strong> For a manicure that's dry to the touch in minutes, apply 2 drops of DripDry Lacquer Drying Drops to each nail.</li> </ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colors</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>Malibu</s:tag>
+    <s:tag>Malibu Collection</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>product line:Nail Lacquer</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>summer 2021</s:tag>
+    <s:tag>summer shades</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6610146852933</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>OPNLN77</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

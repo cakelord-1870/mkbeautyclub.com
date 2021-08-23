@@ -1,0 +1,1795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mkbeautyclub.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mkbeautyclub.com/collections/body.atom"/>
+  <title>Mk Beauty Club</title>
+  <updated>2021-04-24T16:26:56-07:00</updated>
+  <author>
+    <name>Mk Beauty Club</name>
+  </author>
+  <entry>
+    <id>https://mkbeautyclub.com/products/6582007136325</id>
+    <published>2021-04-24T16:26:56-07:00</published>
+    <updated>2021-04-24T16:26:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-prospa-advanced-callus-softening-gel-remover-4oz-118ml"/>
+    <title>OPI ProSpa Advanced Callus Softening Gel Remover 4oz / 118ml</title>
+    <s:type>Callus Remover</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/advanced-callus-softening-gel-asc02-prospa_b2025559-bd00-4e13-9226-a89dac213dca.jpg?v=1619306948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Callus Remover<br>
+        <strong>Price: </strong>
+            5.95 - 10.95
+            <a href="https://mkbeautyclub.com/products/opi-prospa-advanced-callus-softening-gel-remover-4oz-118ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>OPI Pro Spa - Advanced Callus Softening Gel</h1>
+<h2>Advanced Callus Softening Gel is concentrated to help remove and soften unsightly calluses.</h2>
+<ul>
+<li>Fast-acting formula makes the removal of callused skin easier and faster</li>
+<li>Aloe vera, lavender &amp; chamomile soothe</li>
+<li>Antibacterial tea tree extract protects skin</li>
+<li>Non-stinging, non-sticky formula</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand:OPI</s:tag>
+    <s:tag>callus</s:tag>
+    <s:tag>callus remover</s:tag>
+    <s:tag>mani pedi</s:tag>
+    <s:tag>pedicure</s:tag>
+    <s:tag>product line:Pro Spa</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6582007136325</id>
+      <title>4oz | 118mL</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>OPASC01</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/6582007136325</id>
+      <title>8oz | 236mL</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>OPASC02</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4635214151749</id>
+    <published>2020-12-15T12:51:07-08:00</published>
+    <updated>2020-12-15T12:51:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-pedicure-mask-25-4oz-chamomile-mint"/>
+    <title>OPI Pedicure Mask - Chamomile Mint</title>
+    <s:type>Mani Pedi Mask</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/s-l1600_3991adbc-9a83-4f2e-8087-b724389b8a10.jpg?v=1611645958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Mani Pedi Mask<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>OPI Pedicure Mask - Chamomile Mint</h1>
+<p>The products are infused with chamomile to sooth and de-stress, vitamins meant to help heal and protect and <strong>refreshing mint</strong> to invigorate and they feature a honey fragrance.</p>
+<ul>
+<li>Purifies and invigorates</li>
+<li>Soothes and smoothes</li>
+<li>Nourishes and hydrates</li>
+<li>Infused with chamomile extract</li>
+<li>Energizes</li>
+<li>Chamomile/mint aroma creates a custom spa experience<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>clearance</s:tag>
+    <s:tag>foot care</s:tag>
+    <s:tag>foot mask</s:tag>
+    <s:tag>mani pedi</s:tag>
+    <s:tag>mani pedi mask</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4635214151749</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>OPPC677</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4635203698757</id>
+    <published>2020-12-15T12:31:50-08:00</published>
+    <updated>2020-12-15T12:31:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-pedicure-by-opi-massage"/>
+    <title>OPI Pedicure by OPI - Massage</title>
+    <s:type>Mani Pedi Massage</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/imageedit_3_4631800577_8027f48a-dea1-4dd3-a328-4e756ed39db5.jpg?v=1611645961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Mani Pedi Massage<br>
+        <strong>Price: </strong>
+            6.95 - 29.95
+            <a href="https://mkbeautyclub.com/products/opi-pedicure-by-opi-massage">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>OPI Pedicure by OPI - Massage</h1>
+<p>Massage and moisture lotion with soothing botanical extracts.</p>
+<p>Botanical extracts, anti-oxidant vitamins E and A and OPI's Avocado Lipid Complex provide a silky-smooth massage and the ideal lightweight moisturizer for skin.</p>
+<p><strong>Ingredients</strong>: Calendula, fennel, elder flower, geranium, matricaria, orange flower, sage, rose, and yarrow.<br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clearance</s:tag>
+    <s:tag>mani pedi</s:tag>
+    <s:tag>mani pedi massage</s:tag>
+    <s:tag>massage</s:tag>
+    <s:tag>nail polish</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>OPI Polish</s:tag>
+    <s:tag>spa</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4635203698757</id>
+      <title>4.2oz</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>OPPC134</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4635203698757</id>
+      <title>8.5oz</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>OPPC138</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4635203698757</id>
+      <title>25.4oz</title>
+      <s:price currency="USD">29.95</s:price>
+      <s:sku>OPPC137</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4635200946245</id>
+    <published>2020-12-15T12:29:27-08:00</published>
+    <updated>2020-12-15T12:29:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/opi-pedicure-massage-cucumber"/>
+    <title>OPI Pedicure Massage Cucumber</title>
+    <s:type>Mani Pedi Massage</s:type>
+    <s:vendor>OPI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/opi_cucumber_massage_4_e1016bc5-183d-4244-82a1-07f172065ba2.jpg?v=1611645957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OPI<br>
+        <strong>Type: </strong>Mani Pedi Massage<br>
+        <strong>Price: </strong>
+            5.95 - 9.95
+            <a href="https://mkbeautyclub.com/products/opi-pedicure-massage-cucumber">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>OPI Pedicure by OPI - Massage </h1>
+<ul>
+<li>Moisturizing skin massage lotion with cucumber extract.</li>
+<li>A blend of botanical extracts, soothing cucumber extract, antioxidant pineapple extract, vitamins, and emollients.</li>
+<li>Delivers gentle hydration and a soothing massage</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>foot care</s:tag>
+    <s:tag>mani pedi</s:tag>
+    <s:tag>massage</s:tag>
+    <s:tag>OPI</s:tag>
+    <s:tag>spa</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4635200946245</id>
+      <title>4.2oz</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>OPPC424</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4635200946245</id>
+      <title>8.5oz</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>OPPC428</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4622742618181</id>
+    <published>2020-11-26T17:45:19-08:00</published>
+    <updated>2020-11-26T17:45:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/bcl-essential-oil-carrier-lotion-fragrance-free-8oz"/>
+    <title>BCL Essential Oil Carrier Lotion Fragrance Free 8oz</title>
+    <s:type>Body Lotion</s:type>
+    <s:vendor>BCL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/bcl-body-lotion.png?v=1611645859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BCL<br>
+        <strong>Type: </strong>Body Lotion<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>BCL Essential Oil Carrier Lotion Fragrance Free 8oz</h1>
+<p>Say “goodbye” to your chemical-filled body lotions and “hello” to your new <strong>non-toxic moisturizer</strong></p>
+<p>What is the benefit of our Fragrance Free Body Lotion? You can pair it with your favorite essential oils for added aromatherapy benefits, you can mix and match scents to create your own lotion aromatherapy and if you want to change-up your scent, it is as easy as switching your essential oil blends.<br></p>
+<h3>Instructions:</h3>
+<ul>
+<li>Use our Fragrance Free Body Lotion as a daily moisturizer with your favorite essential oil aromas.</li>
+<li>Apply liberally to the skin to relieve dry, dehydrated skin.</li>
+<li>Use as needed</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BCL</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>essentail oils</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>lotion</s:tag>
+    <s:tag>massage</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>scent:unscented</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>spa_scent_unscented</s:tag>
+    <s:tag>spa_unscented</s:tag>
+    <s:tag>unscented</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622742618181</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>BCSPA63111</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4622742585413</id>
+    <published>2020-11-26T17:45:16-08:00</published>
+    <updated>2020-11-26T17:45:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/bcl-roll-on-essential-oils-100-pure"/>
+    <title>BCL Roll-On Essential Oils 100% Pure</title>
+    <s:type>Essential Oils</s:type>
+    <s:vendor>BCL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/imageedit_3_4125745660.jpg?v=1611645860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BCL<br>
+        <strong>Type: </strong>Essential Oils<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>BCL Essential Oils 100% Pure - Roll-On </h3>
+<h3>Quality of Essential Oils</h3>
+<p>Artificial fragrance made in laboratories come from petroleum and chemicals and can be harmful to your body. The only way to benefit, and at a minimum keep safe, is to use 100% pure quality graded essential oils. BCL Essential oils are pure and natural and free from chemicals and synthetic fillers. These oils are sourced form responsible and reliable suppliers where each batch of oil has been passed through a sophisticated test known as gas chromatography and mass spectrometry to ensure that these oils are of the highest quality on the market. Remember that essential oils are derived from plants so depending on the crop and harvest they may vary. One way to differentiate Synthetic from Real Essential Oils is price, unfortunately high quality essential oils are expensive whereas synthetic fragrances are cheap. So if you have a sixth-sense that the price is too good to be true you may want to go with your intuition.</p>
+<h3>Essential Oil Benefits</h3>
+There seems to be an endless amount of ways to benefit from essential oil therapeutic properties, they range from energizing, uplifting and renewing to sedating, calming and relaxing. Some oils have analgesic, antiseptic and decongestant properties. Just a few drops are capable of reducing stress levels, treat respiratory problems and balance hormones. Other common uses are for treating headache symptoms, cooling the skin, congestion relief and in general to promote feelings of calm if your stressed or feelings of energy when you're tired. Essential oils on hair can have a softening effect so mix with water or your favorite hair oil and feel the benefits. Applied on the skin, the oils can do wonders for moisturizing, rash, eczema, psoriasis relief, stress relief, skin rejuvenation, tension relief, and pain relief.*</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BCL</s:tag>
+    <s:tag>essential oils</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>features:no parabens</s:tag>
+    <s:tag>features:vegan</s:tag>
+    <s:tag>made in usa</s:tag>
+    <s:tag>massage</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>no paraben</s:tag>
+    <s:tag>scent:citrus</s:tag>
+    <s:tag>scent:lavendar</s:tag>
+    <s:tag>scent:mint</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>spa_features:no parabens</s:tag>
+    <s:tag>spa_features:vegan</s:tag>
+    <s:tag>spa_scent:citrus</s:tag>
+    <s:tag>spa_scent:lavendar</s:tag>
+    <s:tag>spa_scent:mint</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622742585413</id>
+      <title>Stress Relief</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>BCL69994</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622742585413</id>
+      <title>Head Aid</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>BCSPA63103</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622742585413</id>
+      <title>Deep Soothe</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>BCL69995</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622742585413</id>
+      <title>Immunity</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>BCSPA63104</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4622210433093</id>
+    <published>2020-11-25T21:16:18-08:00</published>
+    <updated>2020-11-25T21:16:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/bcl-essential-oils-100-pure-diffuser-drops"/>
+    <title>BCL Essential Oils 100% Pure Diffuser Drops</title>
+    <s:type>Essential Oils</s:type>
+    <s:vendor>BCL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/imageedit_19_2484626898.jpg?v=1611645861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BCL<br>
+        <strong>Type: </strong>Essential Oils<br>
+        <strong>Price: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>BCL Essential Oils - Diffuser Drops</h1>
+<h3>Be. Care. Love. Essential Oils are pure, natural and free from chemicals and synthetic fillers.</h3>
+<h3>Quality Essential Oils</h3>
+<p>In order to ensure maximum benefits and safety with essential oils, it is imperative to use 100% pure, quality grade essential oils. <br>These oils are sourced from responsible, reliable suppliers who rigorously test each batch of oil through a process known as Gas Chromatography Mass Spectrometry (GC-MS), which ensures the highest quality oils for the highest quality experience.<br></p>
+<h3>The Benefits of Essential Oils</h3>
+<p>100% Pure Essential Oils have infinite therapeutic benefits ranging from energizing, uplifting and renewing to sedating, calming and relaxing.<br>Some oils have analgesic, antiseptic and decongestant properties; just a few drops are capable of reducing stress levels, treating respiratory problems and balancing hormones.<br> Essential oils don't just provide aromatic benefits, they can also be applied to your hair for a softening effect by adding a few drops to water or your favorite hair oil, or you can apply them to your skin to treat rashes, eczema or psoriasis, relieve stress, rejuvenate skin, relief tension and provide pain relief.</p>
+<ul>
+<li>No Petrochemicals</li>
+<li>No Synthetic Dyes</li>
+<li>No Phthalates</li>
+<li>No Synthetic Fragrances</li>
+<li>Cruelty-Free</li>
+<li>No Parabens</li>
+<li>No Sulfates</li>
+<li>Vegan</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BCL</s:tag>
+    <s:tag>essential oils</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>made in USA</s:tag>
+    <s:tag>massage</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>no paraben</s:tag>
+    <s:tag>scent:citrus</s:tag>
+    <s:tag>scent:lavendar</s:tag>
+    <s:tag>scent:mint</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>special features:no parabens</s:tag>
+    <s:tag>special features:vegan</s:tag>
+    <s:tag>vegan</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622210433093</id>
+      <title>Eucalyptus</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>BCSPA63002</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622210433093</id>
+      <title>Simply Citrus</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>BCSPA63004</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622210433093</id>
+      <title>Peppermint</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>BCSPA63003</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622210433093</id>
+      <title>Lavender</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>BCSPA63001</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622210433093</id>
+      <title>Lime</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>BCL69989</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622210433093</id>
+      <title>Energy</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>BCSPA63006</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622210433093</id>
+      <title>Stress Relief</title>
+      <s:price currency="USD">13.95</s:price>
+      <s:sku>BCSPA63005</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4584090894405</id>
+    <published>2020-10-09T17:55:24-07:00</published>
+    <updated>2020-10-09T17:55:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/blossom-cuticle-oil-floral-scent"/>
+    <title>Blossom Cuticle Oil - Floral Scent</title>
+    <s:type>Cuticle Oil</s:type>
+    <s:vendor>Blossom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/SpringBouque.jpg?v=1611645751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blossom<br>
+        <strong>Type: </strong>Cuticle Oil<br>
+        <strong>Price: </strong>
+            4.75 - 5.99
+            <a href="https://mkbeautyclub.com/products/blossom-cuticle-oil-floral-scent">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: left;">Blossom Cuticle Oil - Floral Scent</h1>
+<h3 style="text-align: center;" data-mce-style="text-align: center;">Blossom Cuticle Oil repairs cuticles with its nourishing essential oils; infused from real flowers. </h3>
+<div style="text-align: center;" data-mce-style="text-align: center;">
+<p style="text-align: left;">The prettiest cuticle oil around in our largest size offers an all-natural way to easily care for and strengthen your nails. Hydrate and repair your dry cuticles with essential oils that feel good and smell like Summer in a bottle.</p>
+<p style="text-align: left;">Filled with dried, natural flowers, this blend of nurturing oils softens and conditions your cuticles and restores your nails to their natural beauty.</p>
+<p style="text-align: left;">Brush on the goodness with a light floral scent. </p>
+<p style="text-align: left;">Choose one or grab all six of our great <strong>vegan</strong> flower-inspired scents.</p>
+<p style="text-align: left;"><strong>Directions:</strong></p>
+<ol>
+<li style="text-align: left;">Brush on to your cuticles and massage in to strengthen your nails and keep your cuticles hydrated. </li>
+<li style="text-align: left;">For best results, use daily.</li>
+<li style="text-align: left;">Be sure to clean and fully dry before painting.</li>
+</ol>
+<strong>Ingredients </strong>Mineral Oil, Fragrance, Tocopheryl Acetate, Oleyl Alcohol.<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>.42oz | 12.5mL</s:tag>
+    <s:tag>1oz | 29mL</s:tag>
+    <s:tag>Blossom</s:tag>
+    <s:tag>cuticle care</s:tag>
+    <s:tag>cuticle oil</s:tag>
+    <s:tag>dried flowers</s:tag>
+    <s:tag>Hand &amp; Nail Care</s:tag>
+    <s:tag>hibiscus</s:tag>
+    <s:tag>honeysuckle</s:tag>
+    <s:tag>jasmine</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:tag>nails_features:vegan</s:tag>
+    <s:tag>rose</s:tag>
+    <s:tag>SPA + BODY</s:tag>
+    <s:tag>special features:vegan</s:tag>
+    <s:tag>spring</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Spring Bouquet / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCO4</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Spring Bouquet / 1oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BLCO1224</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Jasmine / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCO3</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Jasmine / 1oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BLCO1223</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Lavender / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCO2</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Lavender / 1oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BLCO1222</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Hibiscus / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCO5</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Hibiscus / 1oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BLCO1225</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Rose / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCO6</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Rose / 1oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BLCO1226</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Honeysuckle / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCO1</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4584090894405</id>
+      <title>Honeysuckle / 1oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BLCO1221</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4573304160325</id>
+    <published>2020-09-23T09:44:17-07:00</published>
+    <updated>2020-09-23T09:44:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/suavecito-beard-oil-1oz"/>
+    <title>Suavecito Beard Oil 1oz</title>
+    <s:type>Beard Oil</s:type>
+    <s:vendor>Suavecito</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/Suavecito_Pomade_Beard_Oil_2048x_b88fe70f-cc60-4383-a7d9-6879269c1a92.jpg?v=1611645637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Suavecito<br>
+        <strong>Type: </strong>Beard Oil<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A good beard is one that is well taken care of. A great beard is one that uses serum! This unscented recipe is made up from natural ingredients to ensure you have healthy, well maintained facial hair or mustache. Made from natural ingredients, such as Argan Oil, which is most commonly used to make hair softer, silkier and shinier naturally. It is the ideal hair conditioner to tame frizzy hair. Use this beard oil to condition your beard or your mustache. It is unscented for all day comfort. Works for any beard style or mustache style.</p>
+<p data-mce-fragment="1">Proudly made in the United States.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Softens and conditions beard or mustache</li>
+<li data-mce-fragment="1">Protects against dryness</li>
+<li data-mce-fragment="1">Provides healthy shine</li>
+<li data-mce-fragment="1">Unscented for a comfortable all day wear</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Directions: </strong>Shake bottle gently. Splash a small amount in palm. Rub hands together and work into beard. Massage from root to tip. Comb or brush through.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beard</s:tag>
+    <s:tag>Beard + Moustache</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>Hair Care</s:tag>
+    <s:tag>Hair Styling</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens styling</s:tag>
+    <s:tag>mens_formula:oil</s:tag>
+    <s:tag>mens_styling:oil</s:tag>
+    <s:tag>miles</s:tag>
+    <s:tag>moustache</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>suavecito</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4573304160325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SUP059NN</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4555648892997</id>
+    <published>2020-09-01T22:33:25-07:00</published>
+    <updated>2020-09-01T22:33:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/cnd-spa-gardenia-woods-lotion"/>
+    <title>CND Spa Gardenia Woods Lotion</title>
+    <s:type>Mani Pedi Lotion</s:type>
+    <s:vendor>CND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/gardenia-wood-lotion-full.jpg?v=1611645530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CND<br>
+        <strong>Type: </strong>Mani Pedi Lotion<br>
+        <strong>Price: </strong>
+            9.95 - 59.95
+            <a href="https://mkbeautyclub.com/products/cnd-spa-gardenia-woods-lotion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>CND Spa Gardenia Woods Lotion</h1>
+<h3>Hydrate your skin with a botanical blend of soothing chamomile and purifying sandalwood.</h3>
+<p>Lightweight hand and body lotion for instant moisture and hydration</p>
+<p>Elevate your experience with a luxurious conditioning treatment</p>
+<p><strong>Scent</strong>: Light &amp; Floral - Jasmine and Gardenia Blossoms.</p>
+<ul>
+<li>Fresh leafy top notes.</li>
+<li>Floral mid notes.</li>
+<li>Soft, musky base notes.</li>
+</ul>
+<p>Scent is neutral and luxurious enough for men and women.</p>
+<h3>Natural Botanical Ingredients:</h3>
+<ul>
+<li>
+<strong>Chamomile</strong>: Natural botanical agent known to be effective in soothing skin.</li>
+<li>
+<strong>Sandalwood</strong>: Is known to gently cleanse and purify.</li>
+</ul>
+<h3>Featured Ingredients:</h3>
+<div>Derived from vegetable oil; humectant used for its powerful hydrating attributes.</div>
+<div></div>
+<div>Absorbs quickly into the skin and acts like a moisture magnet by attracting water into the skin and holding it there</div>
+<p>Leaves skin luxuriously soft with every touch.<br></p>
+<h4>Directions</h4>
+<ol>
+<li>Apply a thin, even layer onto hands or feet.</li>
+<li>Wrap applied areas in a terry cloth towel and let sit for 5 minutes.</li>
+<li>Rinse with clean water or remove with moist towel or soft sponge.</li>
+<li>Dry with a terry cloth towel</li>
+</ol>
+<h4>Available in 2 sizes:</h4>
+<ul>
+<li>Professional Backbar: 128oz /3786mL</li>
+<li>Retail: 8oz / 248mL</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>128oz/3786mL</s:tag>
+    <s:tag>8.4oz/248mL</s:tag>
+    <s:tag>backbar</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>body lotion</s:tag>
+    <s:tag>body scent:gardenia</s:tag>
+    <s:tag>body scent:jasmine</s:tag>
+    <s:tag>body scent:musky</s:tag>
+    <s:tag>brand:CND</s:tag>
+    <s:tag>bulk</s:tag>
+    <s:tag>chamomille</s:tag>
+    <s:tag>CND</s:tag>
+    <s:tag>gardenia</s:tag>
+    <s:tag>jasmine</s:tag>
+    <s:tag>mani pedi lotion</s:tag>
+    <s:tag>musky</s:tag>
+    <s:tag>size:128oz/3786mL</s:tag>
+    <s:tag>size:8.4oz/248mL</s:tag>
+    <s:tag>size:bulk</s:tag>
+    <s:tag>size:large</s:tag>
+    <s:tag>size:professional backbar</s:tag>
+    <s:tag>size:small</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4555648892997</id>
+      <title>8.4oz / 248mL</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>CN90903</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4555648892997</id>
+      <title>128oz / 1 Gallon</title>
+      <s:price currency="USD">59.95</s:price>
+      <s:sku>CN90902</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4379079409733</id>
+    <published>2020-04-06T16:49:59-07:00</published>
+    <updated>2020-04-06T16:49:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/bcl-manicure-pedicure-system-kit-4-step-packettes"/>
+    <title>BCL SPA Organic Manicure + Pedicure 4-Step Kit</title>
+    <s:type>Mani Pedi Kit</s:type>
+    <s:vendor>BCL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/bcl-pocket.png?v=1619586869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BCL<br>
+        <strong>Type: </strong>Mani Pedi Kit<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><strong>BCL SPA 4-Step System for an Organic Manicure &amp; Pedicure</strong></h1>
+<strong>The BCL SPA system in 4 simple steps:</strong><br>
+<ol>
+<li>
+<strong>Dead Sea Salt Soak</strong> cleanses and softens the hands, feet, and body.</li>
+<li>
+<strong>Sugar Scrub</strong> gently exfoliates and moisturizes the skin, leaving it soft and silky.</li>
+<li>
+<strong>Moisture Mask</strong> restores the skin’s natural hydration and deeply nourishes the skin.</li>
+<li>
+<strong>Massage Cream</strong> heals, conditions, and regenerates the skin, leaving it smooth and hydrated.</li>
+</ol>
+<ul></ul>
+<p><strong>Step 1: Sea Salt Soak </strong><br>Add 2 tablespoons to a manicure bowl, ½ cup to a footbath or 1 cup to the full bath. Soak for 5-10 minutes. Pat dry.<br><br><strong>Step 2: Sugar Scrub </strong><br>Apply the scrub to the hands, feet and body. Gently massage until emulsified. Rinse thoroughly and pat dry.<br><br><strong>Step 3: Moisture Mask </strong><br>Apply a generous amount to the desired areas and cover with a warm towel. Let sit for 15 minutes, rinse thoroughly and pat dry. Use as desired to maintain hydration.<br><br><strong>Step 4: Massage Cream </strong><br>Apply to the hands, feet, or body. Massage until fully absorbed.</p>
+<li>Single-use packettes</li>
+<li>4 Packettes / Kit</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#SafeSalon</s:tag>
+    <s:tag>BCL</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>cbd</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>creme</s:tag>
+    <s:tag>disposable</s:tag>
+    <s:tag>feature:organic</s:tag>
+    <s:tag>kit</s:tag>
+    <s:tag>lotion</s:tag>
+    <s:tag>mani pedi</s:tag>
+    <s:tag>massage</s:tag>
+    <s:tag>scent:citrus</s:tag>
+    <s:tag>scent:grapefruit</s:tag>
+    <s:tag>scent:green tea</s:tag>
+    <s:tag>scent:lavendar</s:tag>
+    <s:tag>scrub</s:tag>
+    <s:tag>soak</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>special features:organic</s:tag>
+    <s:tag>starter kit</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4379079409733</id>
+      <title>Lavender + Mint</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>BCSPA53310</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4379079409733</id>
+      <title>Mandarin + Mango</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>BCSPA52310</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4379079409733</id>
+      <title>Lemongrass + Green Tea</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>BCSPA51310</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4379079409733</id>
+      <title>Milk + Honey w/ White Chocolate</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>BCSPA54310</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4166810042411</id>
+    <published>2019-10-01T17:23:45-07:00</published>
+    <updated>2019-10-01T17:23:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/belava-disposable-liners"/>
+    <title>Belava Disposable Pedicure Liners</title>
+    <s:type>Pedicure Liners</s:type>
+    <s:vendor>Belava</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/proxy.jpg?v=1598478377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belava<br>
+        <strong>Type: </strong>Pedicure Liners<br>
+        <strong>Price: </strong>
+            25.00 - 190.00
+            <a href="https://mkbeautyclub.com/products/belava-disposable-liners">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Disposable Pedicure Liners (300 per case) for sanitary pedicures with Belava Tub, Trio Foot Spa,<br>
+Pro Foot Heater/Massager, Quartet Rolling Cart and No-Plumbing Pedicure Chairs by Belava</p>
+<p>A simple and efficient way to have a clean pedicure session. The Belava disposable single-use liners remove the need for scrubbing or cleaning. The liners help avoid skin irritations and allergies caused by chemicals used to sanitize pedicure tubs between clients. They are easy to store, dispose of, and for our Eco-friendly customers: they are recyclable #3<br>
+<br>
+Disposable liners for Belava pedicure tub will make it easy and efficient to comply with the sanitation requirements (Please check with your state board of barbering and cosmetology for further sanitation requirements)</p>
+<ul>
+	<li>Guarantees a worry-free salon visit for every client</li>
+	<li>Save time between appointments: replace the used liner with the fresh one in no time</li>
+	<li>Shaped to fit snugly in the pedicure tub</li>
+	<li>The liners are textured at the bottom to enhance the pedicure experience</li>
+</ul>
+<p style="display: inline !important;">This item does not include any accessories in the pictures, unless stated otherwise in the product description</p>
+<p style="display: inline !important;"> </p>
+<p style="display: inline !important;">** Fits Belava Pedicure Tubs - Displayed. Does not include pedicure tubs **</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#SafeSalon</s:tag>
+    <s:tag>Belava</s:tag>
+    <s:tag>disposable</s:tag>
+    <s:tag>furniture</s:tag>
+    <s:tag>liners</s:tag>
+    <s:tag>mani pedi</s:tag>
+    <s:tag>Pedicure Bowls</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4166810042411</id>
+      <title>100 Liners</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>BER11L-100</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4166810042411</id>
+      <title>300 Liners</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku>BER11L-300</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4166810042411</id>
+      <title>25 Liners</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>BER11L-25</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4166810042411</id>
+      <title>50 Liners</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku>BER11L-50</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/1727048024107</id>
+    <published>2019-03-10T20:07:43-07:00</published>
+    <updated>2019-03-10T20:07:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/mylar"/>
+    <title>Mylar Thermal Foil Blanket 6pk</title>
+    <s:type>Thermal Blanket</s:type>
+    <s:vendor>Fanta Sea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/GM-140501-2.jpg?v=1598131208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fanta Sea<br>
+        <strong>Type: </strong>Thermal Blanket<br>
+        <strong>Price: </strong>
+            5.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Fanta Sea Mylar Thermal Foil Blanket 6pk</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body</s:tag>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>Foil Blanket</s:tag>
+    <s:tag>massage supply</s:tag>
+    <s:tag>Mylar Blanket</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>Spa Bed</s:tag>
+    <s:tag>spa supply</s:tag>
+    <s:tag>spa wrap</s:tag>
+    <s:tag>Thermal Blanket</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1727048024107</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.85</s:price>
+      <s:sku>BUFSC679</s:sku>
+      <s:grams>397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/1617664573483</id>
+    <published>2018-11-29T10:13:53-08:00</published>
+    <updated>2018-11-29T10:13:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/cnd-applicator-brush"/>
+    <title>CND Applicator Brush</title>
+    <s:type>Applicator Brush</s:type>
+    <s:vendor>CND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/cndapplicatorbrush.jpg?v=1598302678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CND<br>
+        <strong>Type: </strong>Applicator Brush<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>CND Applicator Brush</h1>
+<p><span>Designed for use with CND Spa Manicure + Spa Pedicure products, </span></p>
+<p><span>May be sanitized and disinfected, Ergonomic shape for comfort and ease of use, Easy to clean.</span></p>
+<p><span>Soft, yet firm bristles allow applying thick masques easily.</span></p>
+<p><span>Apply with spa product with sweeping motions onto the skin.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>applicator</s:tag>
+    <s:tag>applicator brush</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>CND</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>spa supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1617664573483</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>CN91179</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/1589357543467</id>
+    <published>2018-11-16T16:55:22-08:00</published>
+    <updated>2018-11-16T16:55:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/bio-creative-lab-spa-massage-oil-lavender-12-fluid-ounce"/>
+    <title>BCL SPA - Lavender Massage Oil 12oz</title>
+    <s:type>Massage Oils</s:type>
+    <s:vendor>BCL</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/51jJwXckmiL.jpg?v=1598478265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BCL<br>
+        <strong>Type: </strong>Massage Oils<br>
+        <strong>Price: </strong>
+            14.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style>body {    color: black !important;}html {    color: black;}h3 {    color: black;}p {    color: #000000;    margin: 0;  padding: 0;}.a {    list-style-type: circle;    margin-left: 10px;    padding-left: 10px;}h2 {  color: #000000;    margin: 0;  padding: 0;}div {  margin: 0;  padding: 0;}#content{  margin: 0;  padding: 0;}</style><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,600"><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta http-equiv="content-type" content="text/html; charset=UTF-8"><h3>Bio Creative Lab Spa Massage Oil, Lavender, 12 Fluid Ounce</h3><p id="b">Trouble sleeping calming, soothing, and relaxing, lavender is one of nature's most restorative botanical essentials. Use to heal burns, insect bites, and stings, the lavender herb is incredibly healing to the skin. For centuries, lavender has been traditionally used to alleviate anxiety and sleep disorders. Soothe and calm your customer's stressful mind, life, and body with our new, but familiar, 4 step lavender spa system with certified organic ingredients. We use the world's most precious essential oils and natural extracts, blended with the rare, sustainable, and exotic argon oil from morocco to create a safe and refreshing experience in the spa or at home. Luxury for her. Simplicity for you.</p><h3>Product Features</h3>  <ul class="a">         <li>Alleviates anxiety and sleep disorders</li>         <li>Soothes and calms stressful mind, life and body</li>         <li>Promotes healing for the skin</li>  </ul><br><br><br><hr></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bcl</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:tag>Massage Oil</s:tag>
+    <s:tag>massage oils</s:tag>
+    <s:tag>organic</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>Wellness &amp; Relaxation</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1589357543467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.10</s:price>
+      <s:sku>BCSPA53504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/1569115701291</id>
+    <published>2018-11-04T19:25:53-08:00</published>
+    <updated>2018-11-04T19:25:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/blossom-cuticle-oil-fruits"/>
+    <title>Blossom Cuticle Oil - Fruit Scent</title>
+    <s:type>Cuticle Oil</s:type>
+    <s:vendor>Blossom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/ScentedticleOilFruit.jpg?v=1608060405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blossom<br>
+        <strong>Type: </strong>Cuticle Oil<br>
+        <strong>Price: </strong>
+            4.75 - 5.99
+            <a href="https://mkbeautyclub.com/products/blossom-cuticle-oil-fruits">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: left;"><em>Blossom Cuticle Oil repairs cuticles with its nourishing essential oils; infused from real flowers. </em></h2>
+<div style="text-align: left;">It softens &amp; hydrates tough, overgrown, and dry cuticles.  Maintain use for healthy nails and cuticles.</div>
+<div style="text-align: left;"><strong>Fruit profiles: Crisp and Delicious</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>.42oz | 12.5mL</s:tag>
+    <s:tag>1oz | 29mL</s:tag>
+    <s:tag>blossom</s:tag>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>cuticle care</s:tag>
+    <s:tag>cuticle oil</s:tag>
+    <s:tag>Cuticle Treatments</s:tag>
+    <s:tag>dried flowers</s:tag>
+    <s:tag>dup-v</s:tag>
+    <s:tag>essential oils</s:tag>
+    <s:tag>fruity</s:tag>
+    <s:tag>Hand &amp; Nail Care</s:tag>
+    <s:tag>scented</s:tag>
+    <s:tag>size:1oz</s:tag>
+    <s:tag>size:42oz</s:tag>
+    <s:tag>SPA + BODY</s:tag>
+    <s:tag>variation</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1569115701291</id>
+      <title>Grape / 1oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BLCO1228</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1569115701291</id>
+      <title>Juicy Peach / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCOF3</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1569115701291</id>
+      <title>Strawberry / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCOF6</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1569115701291</id>
+      <title>Apple Blossom / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCOF1</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1569115701291</id>
+      <title>Juicy Peach / 1oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BLCO12210</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1569115701291</id>
+      <title>Strawberry / 1oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BLCO12212</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1569115701291</id>
+      <title>Pineapple / 1oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BLCO12211</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1569115701291</id>
+      <title>Cherry / 1oz</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>BLCO1227</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1569115701291</id>
+      <title>Grape / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCOF5</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1569115701291</id>
+      <title>Cherry / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCOF2</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1569115701291</id>
+      <title>Mandarin Orange / .42oz</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>BLCOF4</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/638678695979</id>
+    <published>2018-02-16T15:01:09-08:00</published>
+    <updated>2018-02-16T15:01:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/supply-foot-massage-wood-pedicure-set-3p"/>
+    <title>Foot Massage Wooden Tool Set - 3pc</title>
+    <s:type>Massage Tools</s:type>
+    <s:vendor>Spa Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/woodenfootmassage3pcset.jpg?v=1598189779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spa Supply<br>
+        <strong>Type: </strong>Massage Tools<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Foot Massage Wooden Tool Set - 3pcs</h1>
+<p><span style="font-size: 16px;">Reflexology Foot Massage stimulates the internal organs of the body, helps blood circulation, relieve tension of the nervous system.</span></p>
+<p><span style="font-size: 16px;">Run the wooden tools along the feet and legs during a massage to enhance the strength of access to pressure points. </span></p>
+<p><span style="font-size: 16px;">A perfect additional service for pedicure.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body</s:tag>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>massage</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>supply</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/638678695979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku>NS21499</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641121812523</id>
+    <published>2018-02-16T14:44:19-08:00</published>
+    <updated>2018-02-16T14:44:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/footlogix-dd-cream-mousse-formula-1-2-oz-sample-size"/>
+    <title>Footlogix #1 DD Cream Mousse Formula 1.2oz ( Sample size)</title>
+    <s:type>Foot Cream</s:type>
+    <s:vendor>Footlogix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/9f2bac3893076789ce0d0b66ffa668c9_e43f3dbe-7709-4daf-971a-e6c74ff4c9b8.jpg?v=1598189970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Footlogix<br>
+        <strong>Type: </strong>Foot Cream<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	 </p>
+<p>
+	<span style="font-size:18px;"><span style="font-family:arial,helvetica,sans-serif;"><u><strong>FOOTLOGIX - DD Cream Mousse Formula</strong></u></span></span></p>
+<p>
+	 </p>
+<p>
+	35 ml / 1.2 Oz  ( Sample size)</p>
+<p>
+	 </p>
+<h1 style="margin: 0px; font-size: 27px; font-family: 'Open Sans', sans-serif; line-height: 30px; color: rgb(49, 51, 104); text-transform: uppercase; letter-spacing: 1px;">
+	<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:18px;">MOISTURIZING FORMULAS</span></span>
+</h1>
+<h1 style="margin: 0px; font-size: 27px; font-family: 'Open Sans', sans-serif; line-height: 30px; color: rgb(49, 51, 104); text-transform: uppercase; letter-spacing: 1px;">
+	 </h1>
+<h1 style="margin: 0px; font-size: 27px; font-family: 'Open Sans', sans-serif; line-height: 30px; color: rgb(49, 51, 104); text-transform: uppercase; letter-spacing: 1px;">
+	<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><span style="color: rgb(35, 31, 32); line-height: 18px; text-align: justify;">Footlogix Pediceuticals  DD Cream Mousse is the ?¢€š¬?</span><span style="color: rgb(35, 31, 32); line-height: 18px; text-align: justify; margin: 0px;">double-defense</span><span style="color: rgb(35, 31, 32); line-height: 18px; text-align: justify;">, for the skin of the feet!?¢€š¬?</span></span></span>
+</h1>
+<ul style="color: rgb(92, 92, 92); font-family: Arial, Helvetica, sans-serif;">
+	<li>
+		<p style="margin: 0px; font-size: 13px; color: rgb(35, 31, 32); line-height: 18px; padding-bottom: 15px; text-align: justify; font-family: 'Open Sans', sans-serif;">
+			<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">This super hydrating yet lightweight creamy mousse locks moisture into the skin with each application. </span></span></p>
+	</li>
+	<li>
+		<p style="margin: 0px; font-size: 13px; color: rgb(35, 31, 32); line-height: 18px; padding-bottom: 15px; text-align: justify; font-family: 'Open Sans', sans-serif;">
+			<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">The distinct anti-microbial properties of the bioactive patented <span style="margin: 0px; font-weight: 700;">Spirulina microalgae</span> makes this formula a great product for night care.</span></span></p>
+		<p style="margin: 0px; font-size: 13px; color: rgb(35, 31, 32); line-height: 18px; padding-bottom: 15px; text-align: justify; font-family: 'Open Sans', sans-serif;">
+			<span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">For optimum results,<span style="font-size:16px;"> <span style="font-size:14px;">apply the mousse on to clean, dry feet at bedtime.</span></span> </span></span></p>
+		<p style="margin: 0px; font-size: 13px; color: rgb(35, 31, 32); line-height: 18px; padding-bottom: 15px; text-align: justify; font-family: 'Open Sans', sans-serif;">
+			 </p>
+		<p style="margin: 0px; font-size: 13px; color: rgb(35, 31, 32); line-height: 18px; padding-bottom: 15px; text-align: justify; font-family: 'Open Sans', sans-serif;">
+			 </p>
+	</li>
+</ul>
+<p>
+	 </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best for:dry heels</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>diabetic</s:tag>
+    <s:tag>foot</s:tag>
+    <s:tag>foot cream</s:tag>
+    <s:tag>foot treatments</s:tag>
+    <s:tag>footlogix</s:tag>
+    <s:tag>lotion</s:tag>
+    <s:tag>Lotion / Creme</s:tag>
+    <s:tag>mani pedi</s:tag>
+    <s:tag>retail</s:tag>
+    <s:tag>special features:safe for diabetics</s:tag>
+    <s:tag>specialty</s:tag>
+    <s:tag>super hydrating cream</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641121812523</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>FOFXP01R0035_N4R</s:sku>
+      <s:grams>289</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641601339435</id>
+    <published>2017-12-28T19:31:22-08:00</published>
+    <updated>2017-12-28T19:31:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/skinfood-peach-sake-silky-finish-powder"/>
+    <title>Skinfood Peach Silky Finish Powder</title>
+    <s:type>Makeup - Powder</s:type>
+    <s:vendor>Skinfood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/f6a3e8937343e48bd22da1de4cd13592.jpg?v=1598016104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skinfood<br>
+        <strong>Type: </strong>Makeup - Powder<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 20px;"><u><strong>Skinfood Peach Sake Silky Finish Powder</strong></u></span></p>
+<p style="margin: 0px 0px 8px 16px; color: rgba(0, 0, 0, 0.87); font-family: Oxygen, Helvetica, Arial, tahoma,;" microsoft="" yahei="" sans="" gb="" sans-serif="" font-size:=""><strong><span style="font-size: 18px;">Provides a natural feeling of bare skin while concealing skin imperfection with natural look.</span></strong></p>
+<p style="margin: 0px 0px 8px 16px; color: rgba(0, 0, 0, 0.87); font-family: Oxygen, Helvetica, Arial, tahoma,;" microsoft="" yahei="" sans="" gb="" sans-serif="" font-size:=""><strong><span style="font-size: 18px;">How to apply: <br> 1. Apply onto puff and smooth along the texture of skin. <br> 2. Then, pat to increase adherence. </span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cosmetics</s:tag>
+    <s:tag>K beauty</s:tag>
+    <s:tag>kbeauty</s:tag>
+    <s:tag>korean beauty</s:tag>
+    <s:tag>makeup</s:tag>
+    <s:tag>makeup powder</s:tag>
+    <s:tag>mani pedi mask</s:tag>
+    <s:tag>Masque</s:tag>
+    <s:tag>peach</s:tag>
+    <s:tag>powder</s:tag>
+    <s:tag>silky</s:tag>
+    <s:tag>silky finish</s:tag>
+    <s:tag>skin food</s:tag>
+    <s:tag>Skincare</s:tag>
+    <s:tag>SkinFood</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641601339435</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>SK272416</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641592885291</id>
+    <published>2017-12-28T19:30:12-08:00</published>
+    <updated>2017-12-28T19:30:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/gena-pedi-spa-moroccan-ghassoul-3-mask-14-oz"/>
+    <title>Gena Pedi Spa - Moroccan Ghassoul 3 Mask 14 oz</title>
+    <s:type>Mani Pedi Mask</s:type>
+    <s:vendor>Gena</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/c70ed0f9dc7fc68029c4c822aee18be5.jpg?v=1598141645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gena<br>
+        <strong>Type: </strong>Mani Pedi Mask<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	 </p>
+<p>
+	<span style="font-size:20px;"><u><strong>Gena Pedi Spa - Moroccan Ghassoul 3 Mask 14 oz</strong></u></span></p>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	<span style="font-size:18px;"><span style="color:#000000;">Description</span></span>
+</h4>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	 </h4>
+<p style="outline: 0px; margin: 0px 0px 12px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; line-height: 24px;">
+	<span style="font-size:18px;"><span style="color:#000000;">The PediSpa Moroccan Ghassoul Nutrient-Rich Nourishing Mask replenishes and restores the skin with rich minerals while rejuvenating the senses with eucalyptus.</span></span></p>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	<span style="font-size:18px;"><span style="color:#000000;">How to Use</span></span>
+</h4>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	 </h4>
+<p style="outline: 0px; margin: 0px 0px 12px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; line-height: 24px;">
+	<span style="font-size:18px;"><span style="color:#000000;"><strong style="outline: 0px; margin: 0px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;">STEP 3 Mask:</strong> Apply a thin coat (7 mL / 0.25 fl oz) of Mask to dry foot and ankle and wrap with a towel or plastic bag. After 5-10 minutes, immerse foot into bath and use a towel or scrub brush to remove mask.</span></span></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gena</s:tag>
+    <s:tag>mani pedi</s:tag>
+    <s:tag>Mani Pedi Collection</s:tag>
+    <s:tag>manicure</s:tag>
+    <s:tag>moroccan ghassoul</s:tag>
+    <s:tag>pedi</s:tag>
+    <s:tag>SPA + BODY</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641592885291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>GE02182</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641592524843</id>
+    <published>2017-12-28T19:30:06-08:00</published>
+    <updated>2017-12-28T19:30:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/gena-pedi-spa-moroccan-ghassoul-4-massage-14-5-oz"/>
+    <title>Gena Pedi Spa - Moroccan Ghassoul 4 Massage 14.5 oz</title>
+    <s:type>Body</s:type>
+    <s:vendor>Gena</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/bf20ad54b36ecfd2f9637838cfca042f_b38eb379-eba8-467a-aa3d-753813ba0abd.jpg?v=1598481646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gena<br>
+        <strong>Type: </strong>Body<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	 </p>
+<p>
+	<span style="font-size:20px;"><u><strong>Gena Pedi Spa - Moroccan Ghassoul 4 Massage 14.5 oz</strong></u></span></p>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	<span style="font-size:20px;"><span style="color:#000000;">Description</span></span>
+</h4>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	 </h4>
+<p style="outline: 0px; margin: 0px 0px 12px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; line-height: 24px;">
+	<span style="font-size:20px;"><span style="color:#000000;">The PediSpa Moroccan Ghassoul Replenishing Massage Lotion is enriched with the replenishing properties of Moroccan Ghassoul clay. This rich foot cr me thoroughly moisturizes dry skin leaving behind a fresh orange blossom fragrance.</span></span></p>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	<span style="font-size:20px;"><span style="color:#000000;">How to Use</span></span>
+</h4>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	 </h4>
+<p style="outline: 0px; margin: 0px 0px 12px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; line-height: 24px;">
+	<span style="font-size:20px;"><span style="color:#000000;"><strong style="outline: 0px; margin: 0px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;">STEP 4 Massage:</strong> Apply Cr me generously (7mL / 0.25 fl oz) to feet and legs. Use your favorite massage technique. After massage is complete, remove any excess product with a warm damp towel.</span></span></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body</s:tag>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>gena</s:tag>
+    <s:tag>massage</s:tag>
+    <s:tag>moroccan ghassoul</s:tag>
+    <s:tag>pedi</s:tag>
+    <s:tag>pedi spa</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>Special Foot Care</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641592524843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>GE02183</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641592000555</id>
+    <published>2017-12-28T19:30:01-08:00</published>
+    <updated>2017-12-28T19:30:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/gena-pedi-spa-moroccan-ghassoul-1-soak-14-oz"/>
+    <title>Gena Pedi Spa - Moroccan Ghassoul 1 Soak 14 oz</title>
+    <s:type>Body</s:type>
+    <s:vendor>Gena</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/d8322100caf3c916a66466c66ec30936.jpg?v=1598481643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gena<br>
+        <strong>Type: </strong>Body<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	 </p>
+<p>
+	<span style="font-size:20px;"><u><strong>Gena Pedi Spa - Moroccan Ghassoul 1 Soak 14.5 oz</strong></u></span></p>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	<span style="font-size:18px;"><strong><span style="color:#000000;">Description</span></strong></span>
+</h4>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	 </h4>
+<p style="outline: 0px; margin: 0px 0px 12px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; line-height: 24px;">
+	<span style="font-size:18px;"><strong><span style="color:#000000;">The PediSpa Moroccan Ghassoul Cleansing Minerals Soak is infused with Moroccan Ghassoul minerals and rose water. This foot soak deeply cleanses clogged pores and removes surface oils from the skin without overdrying, perfectly prepping feet for the pedicure. 15.5 oz</span></strong></span></p>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	<span style="font-size:18px;"><strong><span style="color:#000000;">How to Use</span></strong></span>
+</h4>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	 </h4>
+<p style="outline: 0px; margin: 0px 0px 12px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; line-height: 24px;">
+	<span style="font-size:18px;"><strong><span style="color:#000000;"><strong style="outline: 0px; margin: 0px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;">STEP 1 Soak:</strong> Pour approximately 14g / 0.5 oz of Soak per gallon of water. Allow feet to soak for 5-10 minutes before beginning foot care service.</span></strong></span></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body</s:tag>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>gena</s:tag>
+    <s:tag>moroccan ghassoul</s:tag>
+    <s:tag>pedi</s:tag>
+    <s:tag>pedi spa</s:tag>
+    <s:tag>soak</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>Special Foot Care</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641592000555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>GE02179</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641591705643</id>
+    <published>2017-12-28T19:29:50-08:00</published>
+    <updated>2017-12-28T19:29:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/gena-pedi-spa-moroccan-ghassoul-2-scrub-14-5-oz"/>
+    <title>Gena Pedi Spa - Moroccan Ghassoul 2 Scrub 14.5 oz</title>
+    <s:type>Mani Pedi Scrub</s:type>
+    <s:vendor>Gena</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/965e18f356dc94a8ca7ae482828877e6.jpg?v=1598141608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gena<br>
+        <strong>Type: </strong>Mani Pedi Scrub<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	 </p>
+<p>
+	<span style="font-size:20px;"><u><strong>Gena Pedi Spa - Moroccan Ghassoul 2 Scrub 14.5 oz</strong></u></span></p>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	<span style="font-size:18px;"><span style="color:#000000;">Description</span></span>
+</h4>
+<p style="outline: 0px; margin: 0px 0px 12px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; line-height: 24px; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	<span style="font-size:18px;"><span style="color:#000000;">The PediSpa Moroccan Ghassoul Polishing Spice Scrub is crafted with Moroccan Ghassoul, walnut shell, lemon and mint. This invigorating exfoliating scrub refines and clarifies dull skin, leaving feet soft and smooth.</span></span></p>
+<h4 style="outline: 0px; margin: 0px; padding: 0px 0px 4px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-size: 14px; letter-spacing: 0.02em; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	<span style="font-size:18px;"><span style="color:#000000;">How to Use</span></span>
+</h4>
+<p style="outline: 0px; margin: 0px 0px 12px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; line-height: 24px; color: rgb(92, 73, 58); font-family: " helvetica neue arial sans-serif>
+	<span style="font-size:18px;"><span style="color:#000000;"><strong style="outline: 0px; margin: 0px; padding: 0px; box-sizing: border-box; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility;">STEP 2 Scrub:</strong> Stir contents before use. Apply 14 mL / 0.5 fl oz of Scrub to towel dried skin, smooth over foot and lower leg and gently massage into skin. For a softer exfoliation slightly dampen the skin or add water. Rinse in foot bath with soap and water.</span></span></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body</s:tag>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>body scrub</s:tag>
+    <s:tag>gena</s:tag>
+    <s:tag>mani pedi</s:tag>
+    <s:tag>Mani Pedi Collection</s:tag>
+    <s:tag>mani pedi scrub</s:tag>
+    <s:tag>Manicure Scrub</s:tag>
+    <s:tag>moroccan ghassoul</s:tag>
+    <s:tag>pedi</s:tag>
+    <s:tag>pedi spa</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>scrub</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>Special Foot Care</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641591705643</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>GE02181</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641582202923</id>
+    <published>2017-12-28T19:28:03-08:00</published>
+    <updated>2017-12-28T19:28:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/scalpmaster-terry-cloth-spa-wrap"/>
+    <title>Scalpmaster Terry Cloth Spa Wrap</title>
+    <s:type>Apparel</s:type>
+    <s:vendor>Scalpmaster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/8ca6119ef7342ce6b1f5179f0500a47b.jpg?v=1598013380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scalpmaster<br>
+        <strong>Type: </strong>Apparel<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	<span style="font-size:20px;"><u><strong>Scalpmaster Terry Cloth Spa Wrap</strong></u></span></p>
+<p>
+	 </p>
+<p>
+	<span style="font-size:20px;">Features</span></p>
+<p>
+	<span style="font-size:20px;">100% Soft Terry Cloth </span></p>
+<p>
+	<span style="font-size:20px;">Elastic Top</span></p>
+<p>
+	<span style="font-size:20px;">Velcro Closure</span></p>
+<p>
+	<span style="font-size: 20px;">Washes Easily </span></p>
+<p>
+	<span style="font-size: 20px;">One Size Fits Most </span></p>
+<p>
+	<span style="font-size: 20px;">31" Long</span></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body</s:tag>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>scalpmaster</s:tag>
+    <s:tag>spa</s:tag>
+    <s:tag>spa wrap</s:tag>
+    <s:tag>supply</s:tag>
+    <s:tag>terry cloth</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641582202923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>BU3042</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641563492395</id>
+    <published>2017-12-28T19:24:53-08:00</published>
+    <updated>2017-12-28T19:24:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/cnd-spa-gardenia-woods-masque-8-4-oz"/>
+    <title>CND Spa Gardenia Woods Masque 8.4oz / 248mL</title>
+    <s:type>Mani Pedi Mask</s:type>
+    <s:vendor>CND</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/bdc9ca7b125edbe6688f2809ceea2bbf.jpg?v=1598479711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CND<br>
+        <strong>Type: </strong>Mani Pedi Mask<br>
+        <strong>Price: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>CND Spa Gardenia Woods Masque - Bentonite Clay Mask</h1>
+<h3>Hydrate your skin with a botanical blend of soothing chamomile and purifying sandalwood.</h3>
+<p>CND Spa Masque features Bentonite clay to draw away impurities while moisturizing skin for a fresh, luminous glow.</p>
+<p>Elevate your experience with a luxurious conditioning treatment</p>
+<p><strong>Scent</strong>: Light &amp; Floral - Jasmine and Gardenia Blossoms.</p>
+<ul>
+<li>Fresh leafy top notes.</li>
+<li>Floral mid notes.</li>
+<li>Soft, musky base notes.</li>
+</ul>
+<p>Scent is neutral and luxurious enough for men and women.</p>
+<h3>Natural Botanical Ingredients:</h3>
+<ul>
+<li>
+<strong>Chamomile</strong>: Natural botanical agent known to be effective in soothing skin.</li>
+<li>
+<strong>Sandalwood</strong>: Is known to gently cleanse and purify.</li>
+</ul>
+<h3>Featured Ingredients:</h3>
+<ul>
+<li>
+<strong> Bentonite</strong>: Micro-fine clay that conditions, purifies and cleanses. Also used to thicken products.</li>
+<li>
+<strong>Argan Oil</strong>: known to nourish dry skin</li>
+</ul>
+<p> An indulgence of rich moisture.  Leaves skin luxuriously soft with every touch.</p>
+<h4>Available in 2 sizes:</h4>
+<ul>
+<li>Professional Backbar: 65.2oz /1.8kg</li>
+<li>Retail: 8oz / 248mL</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>body</s:tag>
+    <s:tag>Body + Spa Collection</s:tag>
+    <s:tag>body scent:gardenia</s:tag>
+    <s:tag>body scent:jasmine</s:tag>
+    <s:tag>body scent:musky</s:tag>
+    <s:tag>dup-v</s:tag>
+    <s:tag>mani pedi mask</s:tag>
+    <s:tag>size:8.4oz/248mL</s:tag>
+    <s:tag>size:small</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641563492395</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.95</s:price>
+      <s:sku>CN90905</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+</feed>

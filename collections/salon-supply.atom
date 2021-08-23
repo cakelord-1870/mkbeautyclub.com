@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mkbeautyclub.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mkbeautyclub.com/collections/salon-supply.atom"/>
+  <title>Mk Beauty Club</title>
+  <updated>2020-12-10T11:15:29-08:00</updated>
+  <author>
+    <name>Mk Beauty Club</name>
+  </author>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4631871389765</id>
+    <published>2020-12-10T11:15:29-08:00</published>
+    <updated>2020-12-10T11:15:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/spray-bottle-8oz-fine-mist-3pc-set"/>
+    <title>Spray Bottle 8oz Fine Mist 3pc Set</title>
+    <s:type>Spray Bottles</s:type>
+    <s:vendor>Soft N Style</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/imageedit_19_9419919856_8acc2982-a0ee-441b-a297-ddf67272647e.png?v=1611645960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soft N Style<br>
+        <strong>Type: </strong>Spray Bottles<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Soft 'N Style 8oz Fine Mist Spray Bottle Set 3 Bottles</h1>
+<ul>
+<li><span>Fine mist spray bottles with measuring scales. </span></li>
+<li><span>All bottles come assembled.</span></li>
+<li><span>Set contains three 8oz bottles</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>applicator:spray</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>bottles pumps</s:tag>
+    <s:tag>cleaning accessories</s:tag>
+    <s:tag>container</s:tag>
+    <s:tag>empty</s:tag>
+    <s:tag>empty bottle</s:tag>
+    <s:tag>hair accessories</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>Soft N Style</s:tag>
+    <s:tag>spray</s:tag>
+    <s:tag>spray bottle</s:tag>
+    <s:tag>spray_type:mist</s:tag>
+    <s:tag>supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4631871389765</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>BUB28SET</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4622797963333</id>
+    <published>2020-11-26T20:05:21-08:00</published>
+    <updated>2020-11-26T20:05:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/diane-large-neck-duster"/>
+    <title>Diane Large Neck Duster</title>
+    <s:type>Neck Duster</s:type>
+    <s:vendor>Diane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/img15458_diane-large-neck-duster.jpg?v=1611645894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diane<br>
+        <strong>Type: </strong>Neck Duster<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>barber supply</s:tag>
+    <s:tag>Diane</s:tag>
+    <s:tag>duster</s:tag>
+    <s:tag>hair supply</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622797963333</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>DID9851</s:sku>
+      <s:grams>6435</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4622797865029</id>
+    <published>2020-11-26T20:05:21-08:00</published>
+    <updated>2020-11-26T20:05:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/diane-neck-duster-with-powder-dispenser"/>
+    <title>Diane Neck Duster with Powder Dispenser</title>
+    <s:type>Neck Duster</s:type>
+    <s:vendor>Diane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/71NZsrzWMcL.jpg?v=1611645860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diane<br>
+        <strong>Type: </strong>Neck Duster<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Diane Neck Duster with Powder Dispenser</h1>
+<ul>
+<li><span style="font-size: 1.4em;">The soft nylon bristles are gentle on skin.</span></li>
+<li><span style="font-size: 1.4em;">Control powder dispenser with side button </span></li>
+<li><span style="font-size: 1.4em;">Lightweight and portable</span></li>
+<li><span style="font-size: 1.4em;">2.25" x 6.5" Tall</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessories</s:tag>
+    <s:tag>barber supply</s:tag>
+    <s:tag>Diane</s:tag>
+    <s:tag>duster</s:tag>
+    <s:tag>hair supply</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622797865029</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DID110</s:sku>
+      <s:grams>6435</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4622746583109</id>
+    <published>2020-11-26T18:11:08-08:00</published>
+    <updated>2020-11-26T18:11:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/betty-dain-styling-cape-vintage-white"/>
+    <title>Betty Dain Barber Styling Cape Extra Coverage- Vintage Print</title>
+    <s:type>Cape</s:type>
+    <s:vendor>Betty Dain</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/Vintage-Barber-Cape-Betty-Dain_540x_af119cf4-58c8-4785-98d0-242de6bf7643.jpg?v=1611645860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Betty Dain<br>
+        <strong>Type: </strong>Cape<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 data-mce-fragment="1">Betty Dain Styling Cape Snap Closure - Vintage Print</h1>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Extra back coverage</strong><br>
+</li>
+<li data-mce-fragment="1">Lightweight polyester</li>
+<li data-mce-fragment="1">45" Wide x 60" Long</li>
+<li data-mce-fragment="1">Water-resistant</li>
+<li data-mce-fragment="1">Snap closure</li>
+<li data-mce-fragment="1">Machine washable<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>apparel color_black</s:tag>
+    <s:tag>apparel color_white</s:tag>
+    <s:tag>apparel_color:black</s:tag>
+    <s:tag>apparel_color:white</s:tag>
+    <s:tag>apparel_snap closure</s:tag>
+    <s:tag>barber cape</s:tag>
+    <s:tag>barber supply</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>cape</s:tag>
+    <s:tag>hair supply</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>supply</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622746583109</id>
+      <title>Black</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>BD188WHT</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622746583109</id>
+      <title>White</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>BD188-BLK</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4599588618309</id>
+    <published>2020-10-28T17:51:55-07:00</published>
+    <updated>2020-10-28T17:51:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/uv-light-sterilizer-e-209-ultra-violet-sterilizing-cabinet"/>
+    <title>UV-C Sterilizing Machine E-209 Germicidal Cabinet</title>
+    <s:type>Sterilizer</s:type>
+    <s:vendor>Ikonna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/imageedit_5_3834613699_6f39573c-d760-4efd-b735-025c681b2e96.jpg?v=1611645750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ikonna<br>
+        <strong>Type: </strong>Sterilizer<br>
+        <strong>Price: </strong>
+            118.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Germicidal Cabinet UV-C Sterilizing Machine</h1>
+<ul>
+<li><span style="font-size: 1.4em;" data-mce-style="font-size: 1.4em;">Provides a germ-free environment for storage of implements and tools. Germicidal lamp is a Low-Pressure Mercury-Arc lamps that emits radiation peaking at 253.7nm (UV-C)</span></li>
+<li><span style="font-size: 1.4em;" data-mce-style="font-size: 1.4em;">Inside tray is easily removable</span></li>
+</ul>
+<ul>
+<li><span style="font-size: 1.4em;" data-mce-style="font-size: 1.4em;">Compatible Bulb: Philips and Ushio ("ushio G10T8 bulb")</span></li>
+<li><span style="font-size: 1.4em;">Inner Dimensions: 8.75" x 6.5" x 13"</span></li>
+<li><span style="font-size: 1.4em;">Outer Dimensions: 16" x 11" x 10" </span></li>
+</ul>
+<h3> Directions:</h3>
+<ol>
+<li><span style="font-size: 1.4em;" data-mce-style="font-size: 1.4em;">Disinfect tools in a liquid solution</span></li>
+<li><span style="font-size: 1.4em;" data-mce-style="font-size: 1.4em;">Dry the tools</span></li>
+<li><span style="font-size: 1.4em;" data-mce-style="font-size: 1.4em;">Insert and seal tools in a sterilization pouch and seal</span></li>
+<li><span style="font-size: 1.4em;" data-mce-style="font-size: 1.4em;">Allow 30-40 minutes of exposure to sterilize your disinfected tools</span></li>
+</ol>
+<span style="font-size: 1.4em;" data-mce-style="font-size: 1.4em;"><strong>NOTE TO BEAUTY PROS:</strong></span><br><span style="font-size: 1.4em;" data-mce-style="font-size: 1.4em;"><strong>Laws vary by state regarding use of sterilization pouches</strong></span><br>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#SafeSalon</s:tag>
+    <s:tag>cleaning supply</s:tag>
+    <s:tag>disinfectant</s:tag>
+    <s:tag>Ikonna</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>sterilizer</s:tag>
+    <s:tag>sterilizing</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4599588618309</id>
+      <title>Default Title</title>
+      <s:price currency="USD">118.00</s:price>
+      <s:sku>IKUVCC</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4546069233733</id>
+    <published>2020-08-22T14:38:05-07:00</published>
+    <updated>2020-08-22T14:38:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/technician-chair-manicure-pedicure-stool"/>
+    <title>Technician Chair - Manicure Pedicure Stool</title>
+    <s:type>Stool</s:type>
+    <s:vendor>Nail Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/picwhite_1.jpg?v=1612239740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nail Supply<br>
+        <strong>Type: </strong>Stool<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Technician Chair - Manicure Pedicure Stool </h1>
+<h3>Available in 2 heights: Manicure or Pedicure</h3>
+<li>Manicure Chair Height: 17" to 22.5"</li>
+<li>Pedicure Stool Height: 14.3" <span>to 1</span>5.75"</li>
+<br>
+<h3>Available in 3 Colors: Black, Cappuccino or White</h3>
+<span><span>Seat cushion size 13”x17”<br> Sturdy base with solid wheels<br> Seat cushion: 1.5" thick
+<li>Firm, but plush seat cushions</li>
+</span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chair</s:tag>
+    <s:tag>furniture</s:tag>
+    <s:tag>furniture_color:black</s:tag>
+    <s:tag>furniture_color:brown</s:tag>
+    <s:tag>furniture_color:white</s:tag>
+    <s:tag>nail supply</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4546069233733</id>
+      <title>Cappuccino / Manicure Tall</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>IKFBC7MC</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4546069233733</id>
+      <title>Black / Manicure Tall</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>IKFBC7MB</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4546069233733</id>
+      <title>Black / Pedicure Low</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>IKFBC7PB</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4546069233733</id>
+      <title>Cappuccino / Pedicure Low</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>IKFBC7PC</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4546069233733</id>
+      <title>White / Pedicure Low</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>IKFBC7PW</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4546069233733</id>
+      <title>White / Manicure Tall</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>IKFBC7MW</s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4488264056901</id>
+    <published>2020-06-28T21:39:40-07:00</published>
+    <updated>2020-06-28T21:39:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/mini-fan-tabletop-adjustable-desk-fan"/>
+    <title>Mini Fan Tabletop Adjustable Desk Fan</title>
+    <s:type>Fan</s:type>
+    <s:vendor>Nail Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/H05ee286885d24036a4500ce998681fd1I.jpg?v=1611645406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nail Supply<br>
+        <strong>Type: </strong>Fan<br>
+        <strong>Price: </strong>
+            9.00 - 12.75
+            <a href="https://mkbeautyclub.com/products/mini-fan-tabletop-adjustable-desk-fan">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Mini Desk Top Fan</h1>
+<span face="arial" style="font-family: arial;"><span style="font-size: 16px;">Perfect for drying nails and blowing away fumes and odors.</span></span>
+<ul>
+<li><span style="font-size: 16px;"><span style="line-height: 18px; font-family: arial;">Table top mini fan</span></span></li>
+<li><span style="font-size: 16px;"><span style="line-height: 18px; font-family: arial;">Adjustable angle</span></span></li>
+<li><span style="font-size: 16px;"><span style="line-height: 18px; font-family: arial;">Sturdy and powerful</span></span></li>
+</ul>
+<ul>
+<li><span style="font-size: 16px;"><span style="line-height: 18px; font-family: arial;">Features and on/off switch</span></span></li>
+<li><span style="font-size: 16px;"><span style="line-height: 18px; font-family: arial;">5 ft. cord </span></span></li>
+<li><span style="font-size: 16px;"><span style="line-height: 18px; font-family: arial;">110 volts</span></span></li>
+</ul>
+<h3><span style="font-size: 16px;"><span style="line-height: 18px; font-family: arial;">Available in 2 styles<br></span></span></h3>
+<ul>
+<li><span style="font-size: 16px;"><span style="line-height: 18px; font-family: arial;">Black Turbo</span></span></li>
+<li><span style="font-size: 16px;"><span style="line-height: 18px; font-family: arial;">White Mini</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>eyelash extension supplies</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>spa supplies</s:tag>
+    <s:tag>supplies</s:tag>
+    <s:tag>supplies personal box</s:tag>
+    <s:tag>supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4488264056901</id>
+      <title>Black Turbo</title>
+      <s:price currency="USD">12.75</s:price>
+      <s:sku>IKFANMINIT</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4488264056901</id>
+      <title>White Mini</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku>IKFANMINI</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4421381259333</id>
+    <published>2020-05-20T06:49:04-07:00</published>
+    <updated>2020-05-20T06:49:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/strike-bac-lemon-disinfectant-1-gallon-epa-approved-again-covid-19"/>
+    <title>Strike Bac Lemon Disinfectant 1 Gallon - EPA approved again Covid-19</title>
+    <s:type>Disinfectant</s:type>
+    <s:vendor>Strike Bac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/image_5bd13ac9-d24c-4681-b8ca-ef2c36de9ec3.png?v=1611645249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Strike Bac<br>
+        <strong>Type: </strong>Disinfectant<br>
+        <strong>Price: </strong>
+            21.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Strike Bac Disinfectant Cleaner with Lemon Scent</h1>
+<p><strong>EPA approved for use against COVID-19. </strong> <br>EPA registration number:1839-168-37265</p>
+<p>Strike Bac Lemon Odor Disinfectant is a phosphate-free, formulation designed to provide effective cleaning, deodorizing, and disinfection for hospitals, nursing homes, schools, food service establishments, transportation terminals, office buildings, manufacturing facilities, lodging establishments, retail business, and athletic/recreation facilities where housekeeping is of prime importance in controlling cross-contamination from treated surfaces.</p>
+<p>Strike Bac Lemon Odor Disinfectant is specially formulated for excellent cleaning while giving a pleasant lemon fragrance.  Dilutes economically so a little product goes a long way. It disinfects the following hard non-porous inanimate environmental surfaces: floors, walls, metal surfaces, stainless steel surfaces, glazed porcelain, glazed ceramic tile, plastic surfaces, vanity tops, shower stalls, bathtubs, and cabinets.</p>
+<p>Please refer to the list below published by EPA <br>Look for <strong>EPA registration number:1839-168-37265</strong></p>
+<a href="https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2">https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2</a>
+<p> </p>
+<p><strong>Instructions</strong></p>
+<ol>
+<li>To Clean and Disinfect: Dilute 4 ounces in one gallon of water.</li>
+<li>Contact time: 10 minutes.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bulk</s:tag>
+    <s:tag>cleaning supply</s:tag>
+    <s:tag>disinfectant</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>may new</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>size:backbar</s:tag>
+    <s:tag>size:bulk</s:tag>
+    <s:tag>size:gallon</s:tag>
+    <s:tag>sterilization</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4421381259333</id>
+      <title>Default Title</title>
+      <s:price currency="USD">21.95</s:price>
+      <s:sku>SB01131</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4393224306757</id>
+    <published>2020-04-23T17:00:28-07:00</published>
+    <updated>2020-04-23T17:00:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/softn-style-7-oz-classic-lotion-dispenser-bottle"/>
+    <title>Soft &apos;N Style 7oz Classic Lotion Dispenser Bottle</title>
+    <s:type>Bottles</s:type>
+    <s:vendor>Soft N Style</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/B33_medium_62dc3f80-8a49-4c70-8780-3838e5acfc5a.jpg?v=1611645141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soft N Style<br>
+        <strong>Type: </strong>Bottles<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Soft N Style Soft'n Style 7 oz. Classic Lotion Dispenser Bottle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>applicator:pump</s:tag>
+    <s:tag>bottles</s:tag>
+    <s:tag>bottles pumps</s:tag>
+    <s:tag>dispenser</s:tag>
+    <s:tag>dispenser pump</s:tag>
+    <s:tag>dispensers</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>size:7oz</s:tag>
+    <s:tag>size:small</s:tag>
+    <s:tag>Soft N Style</s:tag>
+    <s:tag>supplies</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4393224306757</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.25</s:price>
+      <s:sku>BUB33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4379953070149</id>
+    <published>2020-04-07T16:50:59-07:00</published>
+    <updated>2020-04-07T16:50:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/multi-purpose-paper-towels-recycled-with-virgin-pulp"/>
+    <title>Multi-Purpose Paper Towels Recycled with Virgin Pulp</title>
+    <s:type>Paper Towels</s:type>
+    <s:vendor>Salon Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/virginpulppapertowels.jpg?v=1611645063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Salon Supply<br>
+        <strong>Type: </strong>Paper Towels<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">Strong and absorbent and environmentally friendly.</div>
+<div style="text-align: center;">Made of Virgin Pulp Fibers</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">Imprinted pattern with useful a texture.<br>
+</div>
+<div style="text-align: center;">3-Ply 100 Sheets</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleaning supply</s:tag>
+    <s:tag>feature:environment friendly</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>nail wipes</s:tag>
+    <s:tag>paper towel</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4379953070149</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>MS31000320</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4376707399749</id>
+    <published>2020-04-04T17:13:14-07:00</published>
+    <updated>2020-04-04T17:13:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/nitrile-gloves-textured-soft-powder-free-100-count"/>
+    <title>Nitrile Gloves Medical Grade - Powder Free 100 Count Textured, Soft</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Nail Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/NitrileGlovesHand_63ad0c47-4538-42c2-b83b-0696cefca941.jpg?v=1598118357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nail Supply<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: left;"><strong>Nitrile Gloves Medical Grade</strong></h1>
+<h2><strong>Powder-Free Examination Gloves</strong></h2>
+<p><span style="font-size: 1.4em;">Nitrile Gloves are resistant to a wider range of chemicals.</span><span style="font-size: 1.4em;"><br> Provides an exceptional balance of performance, comfort and durability</span></p>
+<p><span style="font-size: 1.4em;"> </span><span style="font-size: 1.4em;">Diamond Gloves Advance Series </span></p>
+<ul>
+<li>Finger Tip Thickness: 3.9 mil</li>
+<li><span>Ambidextrous, Textured, Beaded</span></li>
+<li><span>Non-sterile</span></li>
+<li><span>Violet Blue 3.9 mil</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>#SafeSalon</s:tag>
+    <s:tag>cleaning supply</s:tag>
+    <s:tag>disposable</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>gloves</s:tag>
+    <s:tag>medical grade</s:tag>
+    <s:tag>nitrile</s:tag>
+    <s:tag>powder free</s:tag>
+    <s:tag>PPE</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4376707399749</id>
+      <title>Medium</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>DINE38M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4376707399749</id>
+      <title>X-Small</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>DI2006S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4376707399749</id>
+      <title>Small</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>DINE38S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4376707399749</id>
+      <title>X-Large</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>DINE38XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4376707399749</id>
+      <title>Large</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku>DINE38L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4370085216325</id>
+    <published>2020-03-27T09:46:21-07:00</published>
+    <updated>2020-03-27T09:46:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/citra-cide-lemon-disinfectant-cleaner"/>
+    <title>Citra-Cide Lemon Disinfectant Cleaner</title>
+    <s:type>Disinfectant</s:type>
+    <s:vendor>Citra Cide</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/a1e7df2a27670676b19bdbbbce16b360.jpg?v=1598299649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Citra Cide<br>
+        <strong>Type: </strong>Disinfectant<br>
+        <strong>Price: </strong>
+            31.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="font-align: center;">Lemon-scented, EPA registered, neutral pH, hospital grade quaternary-based disinfectant cleaner. <br>Outstanding cleaning and broad-spectrum disinfecting in one step.<br> Kills HIV-1, Hepatitis B virus, MRSA, MRSA-CA and E-coli and numerous other microorganisms. <br>Ideal for health, restroom sanitation, schools and instutions</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleaning supply</s:tag>
+    <s:tag>disinfectant</s:tag>
+    <s:tag>gallon liquids</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>scent:citrus</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4370085216325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku>CI145404</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4368761585733</id>
+    <published>2020-03-23T17:22:06-07:00</published>
+    <updated>2020-03-23T17:22:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/mar-v-cide-disinfectant-germicide-fungicide-virucide"/>
+    <title>MAR-V-CIDE  Disinfectant, Germicide, Fungicide, Virucide</title>
+    <s:type>Disinfectant</s:type>
+    <s:vendor>Mar-V-Cide</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/Marvcide16oz_1.jpg?v=1598128836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mar-V-Cide<br>
+        <strong>Type: </strong>Disinfectant<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong class="title"> EPA approved MAR-V-CIDE is<span class="underline">four times the concentration</span>of our leading competitor, as a hospital disinfectant.</strong></h2><div style="text-align: center;">Kills the AIDS Virus (HIV-1).</div><div style="text-align: center;">Kills Athlete<span>'</span>s Foot fungi.</div><div style="text-align: center;">Effective against Herpes Simplex Type 1 and 2.</div><div style="text-align: center;">Contains rust inhibitor</div><div style="text-align: center;">Using MAR-V-CIDE will cut your disinfectant costs by up to 75%.</div><div style="text-align: center;">Directions: Two ounces of MAR-V-CIDE make one gallon of hospital strength cleaning solution</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleaning</s:tag>
+    <s:tag>disinfectant</s:tag>
+    <s:tag>marvcide</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>sanitation</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4368761585733</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.95</s:price>
+      <s:sku>MA00329</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4361982738501</id>
+    <published>2020-02-29T15:32:23-08:00</published>
+    <updated>2020-02-29T15:32:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/manner-guard%E2%84%A2-reusable-sanitary-face-mask"/>
+    <title>Invisible Manner Guard™ - Reusable Face Mask</title>
+    <s:type>Protective Face Mask</s:type>
+    <s:vendor>Manner Guard</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/61aZm7iGFPL.jpg?v=1598481992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Manner Guard<br>
+        <strong>Type: </strong>Protective Face Mask<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These hygienic masks are lightweight and guards from microsopic saliva.</p>
+<p>The transparent shield has 99.99% anti-bacterial film with anti-fog treatment. The guard rest on the chin so the shield doesn't get in the way.</p>
+<p>Transparent, reusable and washable. </p>
+<p>Includes:</p>
+<ul>
+<li>Sanitary Face Mask</li>
+<li>Wiping Cloth</li>
+<li>Individual Cloth Bag Carry Bag</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyelash Extension Supply</s:tag>
+    <s:tag>face mask</s:tag>
+    <s:tag>permanent makeup supply</s:tag>
+    <s:tag>PPE</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>sanitary</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4361982738501</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>MGMK21-1</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/1838114111531</id>
+    <published>2019-07-22T09:53:52-07:00</published>
+    <updated>2019-07-22T09:53:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/soft-n-style-aluminum-spray-bottle-10oz-silver"/>
+    <title>Aluminum Spray Bottle 10oz</title>
+    <s:type>Spray Bottle</s:type>
+    <s:vendor>Soft N Style</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/8036_inset1.jpg?v=1611644514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soft N Style<br>
+        <strong>Type: </strong>Spray Bottle<br>
+        <strong>Price: </strong>
+            2.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Soft N Style - Trigger Spray Aluminum Bottle</h1>
+<ul>
+<li><span>Adjustable spray: mist to targeted spray</span></li>
+<li>Smooth coated inside, won't rust<br>
+</li>
+<li>Proportionate 10oz bottle</li>
+</ul>
+<p><span>Available in 3 colors: </span><span>Silver, Pink and Black</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>applicator:spray</s:tag>
+    <s:tag>bottles</s:tag>
+    <s:tag>plural_check</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>Soft N Style</s:tag>
+    <s:tag>spray</s:tag>
+    <s:tag>spray bottle</s:tag>
+    <s:tag>supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1838114111531</id>
+      <title>Pink</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>BU8036_PINK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1838114111531</id>
+      <title>Black</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>BU8036_BLK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1838114111531</id>
+      <title>Silver</title>
+      <s:price currency="USD">2.95</s:price>
+      <s:sku>BU8036_BLK</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/1607314243627</id>
+    <published>2018-11-23T16:52:58-08:00</published>
+    <updated>2018-11-23T16:52:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/elite-hot-towel-cabinet-mini"/>
+    <title>Elite Hot Towel Cabinet - Mini</title>
+    <s:type>Towel Warmer</s:type>
+    <s:vendor>Nail Supply</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/61EQAYCVeCL.jpg?v=1598480387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nail Supply<br>
+        <strong>Type: </strong>Towel Warmer<br>
+        <strong>Price: </strong>
+            92.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta content="IE=edge" http-equiv="X-UA-Compatible"><meta name="viewport" content="width=device-width, initial-scale=1">
+<div class="container">
+<h1>Elite Hot Towel Cabinet - Mini</h1>
+<h3>
+<span class="glyphicon glyphicon-list-alt"></span> Description</h3>
+<p>This mini single hot-towel-cabinet keeps towels warm all day long and can hold a maximum of 12 small, facial-sized towels. Maintains consistent temp of 150-160 degrees. Comes with water-drip pan and interior towel rack. For best results, use this hot-towel cabinet with small, facial-sized towels. Pre-soak the towels, wring them out, then roll them up and place towels on the wire rack inside the unit. When you turn the unit on, the towels will heat up. It is, along with our two other sizes (single &amp; double), among our most popular and top selling hot-towel cabinets. Excellent quality, very reliable and reasonably priced interior dimensions: 10.5"w x 7 1/4" d x 5 3/8" h/ exterior dimensions: 13 3/4" w x 11" d x 10" h.</p>
+<p>Features:</p>
+<ul>
+<li>Holds 12 facial-sized (small, wash cloth) towels</li>
+<li>Contains an internal temperature control so the unit does not over-heat</li>
+<li>Insulated cabinet with padded heating element surrounds all internal walls for consistent heating</li>
+<li>This unit does not rely on bulbs to heat which burn out and do not provide consistent heating</li>
+</ul>
+<p>Product Details:</p>
+<ul>
+<li>Shipping Weight: 11.25 pounds</li>
+<li>International Shipping: This item can be shipped to select countries outside of the U.S. Learn More</li>
+<li>Part Number: HC-MINI</li>
+<li>Item Weight: 9 pounds</li>
+<li>Product Dimensions: 17.8 x 10.5 x 14 inches</li>
+<li>Item model number: HC-MINI</li>
+<li>Color: White</li>
+<li>Material: plastic, metal</li>
+<li>Item Package Quantity: 1</li>
+<li>Batteries Included?: No</li>
+<li>Batteries Required?: No</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barber supply</s:tag>
+    <s:tag>furniture</s:tag>
+    <s:tag>machines</s:tag>
+    <s:tag>Massage Tools &amp; Equipment</s:tag>
+    <s:tag>nail supply</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>skincare supply</s:tag>
+    <s:tag>spa supply</s:tag>
+    <s:tag>towel warmer</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/1607314243627</id>
+      <title>Default Title</title>
+      <s:price currency="USD">92.80</s:price>
+      <s:sku>IkHC-MINI</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/639781437483</id>
+    <published>2018-02-16T14:54:05-08:00</published>
+    <updated>2018-02-16T14:54:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/salonchic-8inch-deluxe-triple-teasing-comb-supply"/>
+    <title>Salon Chic - 8&quot; Deluxe Triple Teasing Comb</title>
+    <s:type>Supply</s:type>
+    <s:vendor>Salon Chic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/ffebbcf4e1240217f322f34cdc915621.jpg?v=1598486486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Salon Chic<br>
+        <strong>Type: </strong>Supply<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	<span style="font-family:arial,helvetica,sans-serif;"><strong><u><span style="font-size:18px;">Salon Chic - 8" Deluxe Triple Teasing Comb</span></u></strong></span></p>
+<p>
+	<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><span style="line-height: 18px;">Three rows of teeth provide three times the volume! </span></span></span></p>
+<p>
+	<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><span style="line-height: 18px;">Great for backcombing, teasing, sectioning and finishing hair.</span></span></span></p>
+<p>
+	<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"><span style="line-height: 18px;">                                             <img alt="" src="https://cdn.shopify.com/s/files/1/2641/1040/t/3/assets/description_image_SC9230-side.jpg?4594400388389231103" style="height: 500px; width: 40px;"></span></span></span></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>hair comb</s:tag>
+    <s:tag>hair supply</s:tag>
+    <s:tag>nail supply</s:tag>
+    <s:tag>salon chic</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/639781437483</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>BUSC9230</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641342832683</id>
+    <published>2017-12-28T18:46:13-08:00</published>
+    <updated>2017-12-28T18:46:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/easy-clean-salon-apron"/>
+    <title>Salon Chic - Easy Clean Salon Apron</title>
+    <s:type>Apron</s:type>
+    <s:vendor>Salon Chic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/b084e8aa1fb8deda05877cfdd7d327b5_57c6bb45-ff3a-4c10-a91a-ceeddc8d7600.jpg?v=1598486493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Salon Chic<br>
+        <strong>Type: </strong>Apron<br>
+        <strong>Price: </strong>
+            14.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="margin: 10px 0px 3px; padding: 0px; border: 0px; outline: 0px; font-size: 18px; vertical-align: baseline; color: rgb(236, 0, 140); font-family: arial; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">
+	 </h2>
+<p style="margin: 15px 50px 15px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 13px; vertical-align: baseline; line-height: 18px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">
+	<span style="color:#000000;"><img src="https://cdn.shopify.com/s/files/1/2641/1040/t/3/assets/description_image_salonchic.jpg?3115596813434452673" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;"></span></p>
+<h2 style="margin: 10px 0px 3px; padding: 0px; border: 0px; outline: 0px; font-size: 18px; vertical-align: baseline; color: rgb(236, 0, 140); font-family: arial; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">
+	<span style="color:#000000;">Easy Clean Salon Apron</span>
+</h2>
+<h2 style="margin: 10px 0px 3px; padding: 0px; border: 0px; outline: 0px; font-size: 18px; vertical-align: baseline; color: rgb(236, 0, 140); font-family: arial; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">
+	 </h2>
+<p style="margin: 15px 50px 15px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 13px; vertical-align: baseline; line-height: 18px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">
+	<span style="color:#000000;"><b style="margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: transparent;">4043</b></span></p>
+<p style="margin: 15px 50px 15px 0px; padding: 0px; border: 0px; outline: 0px; font-size: 13px; vertical-align: baseline; line-height: 18px; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;">
+	<span style="color:#000000;">This lightweight salon apron has a beautifully sleek and satin shine. Stylists will benefit from the convenient zippers in the pockets to easily remove stray hairs. It's made of a Poly/Satin material which is static free and water resistant. It also features a tie back closure and an adjustable metal snap neck closure. One size fits most. Machine washable. Onyx.</span></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>apron</s:tag>
+    <s:tag>hair supply</s:tag>
+    <s:tag>nail supply</s:tag>
+    <s:tag>salon chic</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641342832683</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.60</s:price>
+      <s:sku>BU4043</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641323073579</id>
+    <published>2017-12-28T18:42:32-08:00</published>
+    <updated>2017-12-28T18:42:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/semi-permanent-makeup-tattoo-lint-wipes-accessories"/>
+    <title>Lint Free Wipes 100 Pieces</title>
+    <s:type>Lint Free Wipes</s:type>
+    <s:vendor>Semi Tattoo Makeup</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/22849f9822004e98e04fa2217b22a131_f8abd72c-5b94-4003-bcea-5594bee90610.jpg?v=1598486870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Semi Tattoo Makeup<br>
+        <strong>Type: </strong>Lint Free Wipes<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	 </p>
+<p>
+	<span style="font-size: 18px"><u><strong>Semi Permanent Tattoo Makeup - Lint Free Wipes - 1000/PK</strong></u></span></p>
+<p>
+	<span style="font-size: 16px">Place Lint Free Wipes in steel jar with filtered water for use during Semi Permanent Tattoo Makeup.  It is imperative not to double wipe and contaminate the area being tattooed.</span></p>
+<p>
+	Size: 2.5 X 1 X 1.75 inch / pk</p>
+<p>
+	 </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lint free wipes</s:tag>
+    <s:tag>permanent makeup supply</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>tattoo makeup wipes</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641323073579</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>STM42</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/640902987819</id>
+    <published>2017-12-28T17:45:49-08:00</published>
+    <updated>2017-12-28T17:45:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/ikonna-manicure-ergonomic-stool-black-chair-bc9mb"/>
+    <title>Ikonna Manicure Ergonomic Stool - Black</title>
+    <s:type>Pedicure Stool</s:type>
+    <s:vendor>Ikonna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/1288551c103dff64c2d025b0e704146f.jpg?v=1598148949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ikonna<br>
+        <strong>Type: </strong>Pedicure Stool<br>
+        <strong>Price: </strong>
+            81.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 16px;">Please contact for shipping rates.</span></p>
+<p><span style="font-size: 18px;"><strong><u>Ikonna - Manicure Ergonomic Stool</u></strong></span></p>
+<p><span style="font-size: 14px;">17" x 22.5"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color:black</s:tag>
+    <s:tag>furniture</s:tag>
+    <s:tag>Furniture &amp; Equipment</s:tag>
+    <s:tag>nail salon supply</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/640902987819</id>
+      <title>Default Title</title>
+      <s:price currency="USD">81.00</s:price>
+      <s:sku>FBC9MB</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/640902397995</id>
+    <published>2017-12-28T17:45:44-08:00</published>
+    <updated>2017-12-28T17:45:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/ikonna-manicure-ergonomic-stool-white-chair-bc9mw"/>
+    <title>Ikonna Manicure Ergonomic Stool - White</title>
+    <s:type>Pedicure Stool</s:type>
+    <s:vendor>Ikonna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/ef37462a82ff0c82799399c997a034f5_9436826f-ec68-400c-976f-6964c5037069.jpg?v=1598148986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ikonna<br>
+        <strong>Type: </strong>Pedicure Stool<br>
+        <strong>Price: </strong>
+            81.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 16px;">Please contact for shipping rates.</span></p>
+<p><span style="font-size: 18px;"><strong><u>Ikonna - Manicure Ergonomic Stool</u></strong></span></p>
+<p><span style="font-size: 14px;">17" x 22.5"</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>color:white</s:tag>
+    <s:tag>furniture</s:tag>
+    <s:tag>Furniture &amp; Equipment</s:tag>
+    <s:tag>nail salon supply</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>stool</s:tag>
+    <s:tag>supply</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/640902397995</id>
+      <title>Default Title</title>
+      <s:price currency="USD">81.00</s:price>
+      <s:sku>IKFBC9MW</s:sku>
+      <s:grams>8624</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/640761462827</id>
+    <published>2017-12-28T17:27:20-08:00</published>
+    <updated>2017-12-28T17:27:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/hot-towel-cabi-warmer-plus-48-cabinet"/>
+    <title>Hot Towel Cabinet Warmer Plus 48 Towels</title>
+    <s:type>Towel Warmer</s:type>
+    <s:vendor>Ikonna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/a3ceb723e0a93a2d25ba4741d6804715.jpg?v=1598144195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ikonna<br>
+        <strong>Type: </strong>Towel Warmer<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	 </p>
+<p>
+	<strong><u><span style="font-size:18px;">Hot Towel Cabinet Warmer Plus - 48 Towels</span></u></strong></p>
+<div>
+	<div>
+		<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Holds 48 facial-sized (small, wash cloth) towels</span></span>
+</div>
+	<div>
+		<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Contains an internal temperature control so the unit does not over-heat</span></span>
+</div>
+	<div>
+		<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Insulated cabinet w/ padded heating element surrounds all internal walls for consistent heating</span></span>
+</div>
+	<div>
+		<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">This unit does not rely on bulbs to heat which burn out and do not provide consistent heating</span></span>
+</div>
+	<div>
+		<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;">Comes with water-drip pan and interior towel rack. 180 watts / 110V / 60HZ</span></span>
+</div>
+	<div>
+		 </div>
+</div>
+<p>
+	<img alt="" src="https://cdn.shopify.com/s/files/1/2641/1040/t/3/assets/description_image_Hot-Cabinet-Warmer-48-inside.jpg?11889286439668704609" style="width: 400px; height: 400px;"></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>furniture</s:tag>
+    <s:tag>Ikonna</s:tag>
+    <s:tag>large</s:tag>
+    <s:tag>machines</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>size:large</s:tag>
+    <s:tag>towel warmer</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/640761462827</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>IKHCPLUS</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/640760807467</id>
+    <published>2017-12-28T17:27:14-08:00</published>
+    <updated>2017-12-28T17:27:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/hot-towel-cabi-warmer-mini-24-supply"/>
+    <title>Hot Towel Cabinet Warmer Mini 24 Towels</title>
+    <s:type>Towel Warmer</s:type>
+    <s:vendor>Ikonna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/009ca4a5d4ca7b6ee86f6477cedfaf21.jpg?v=1598144159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ikonna<br>
+        <strong>Type: </strong>Towel Warmer<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>
+	 </p>
+<p>
+	<strong><u><span style="font-size:18px;">Hot Towel Cabinet Warmer Mini - 24 Towels</span></u></strong></p>
+<div>
+	<span style="font-size:16px;">Holds 24 facial-sized (small, wash cloth) towels</span>
+</div>
+<div>
+	<span style="font-size:16px;">Contains an internal temperature control so the unit does not over-heat</span>
+</div>
+<div>
+	<span style="font-size:16px;">Insulated cabinet w/ padded heating element surrounds all internal walls for consistent heating</span>
+</div>
+<div>
+	<span style="font-size:16px;">This unit does not rely on bulbs to heat which burn out and do not provide consistent heating</span>
+</div>
+<div>
+	<span style="font-size:16px;">Comes with water-drip pan and interior towel rack. 180 watts / 110V / 60HZ</span>
+</div>
+<p>
+	<img alt="" src="https://cdn.shopify.com/s/files/1/2641/1040/t/3/assets/description_image_Hot-Cabinet-Warmer-24-inside.jpg?8774987253471257111" style="width: 400px; height: 400px;"></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>check_dup</s:tag>
+    <s:tag>furniture</s:tag>
+    <s:tag>Ikonna</s:tag>
+    <s:tag>machines</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>size:small</s:tag>
+    <s:tag>small</s:tag>
+    <s:tag>towel warmer</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/640760807467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>IKHCX110</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/640572555307</id>
+    <published>2017-12-28T17:00:15-08:00</published>
+    <updated>2017-12-28T17:00:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/fanta-sea-uv-sterilizer"/>
+    <title>Fanta Sea - UV Sterilizing Cabinet</title>
+    <s:type>Sterilizer</s:type>
+    <s:vendor>Fanta Sea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/cea5d3fa4c165e19d249fcc410480e50.jpg?v=1598189074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fanta Sea<br>
+        <strong>Type: </strong>Sterilizer<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Fanta Sea - UV Sterilizer Cabinet</h1>
+<ul>
+<li><span style="font-size: 1.4em;">UV sterilizating unit features an automatic shut-off when the drawer is opened.</span></li>
+<li><span style="font-size: 1.4em;">Sterilizes brushes, combs, implements, shears and other beauty tools.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cleaning supply</s:tag>
+    <s:tag>machines</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>sterilizer</s:tag>
+    <s:tag>sterilizing</s:tag>
+    <s:tag>supply</s:tag>
+    <s:tag>uv</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/640572555307</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>BUFSC863</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/640380207147</id>
+    <published>2017-12-28T16:28:44-08:00</published>
+    <updated>2017-12-28T16:28:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/ikonna-sterilizing-tray-clear-blue-implement-manicure"/>
+    <title>Ikonna Sterilizing Box Tray Clear Blue</title>
+    <s:type>Sterilizing Tray</s:type>
+    <s:vendor>Ikonna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/3c6cbc90d92195cae12ccff575e43350.jpg?v=1605311653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ikonna<br>
+        <strong>Type: </strong>Sterilizing Tray<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Ikonna Sterilizing Box Tray Clear Blue</h1>
+<ul>
+<li>For disinfecting of implements</li>
+<li>Plastic sterilizer tray features a self draining basket that rises when the lid is opened.</li>
+<li>When the lid is closed the tray lowers to allow the complete submersion of your implements.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barbicide</s:tag>
+    <s:tag>cleaning supply</s:tag>
+    <s:tag>container</s:tag>
+    <s:tag>disinfectant</s:tag>
+    <s:tag>label:recommended</s:tag>
+    <s:tag>recommended</s:tag>
+    <s:tag>salon supply</s:tag>
+    <s:tag>sterilizing</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>supply</s:tag>
+    <s:tag>tray</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/640380207147</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>IKPST</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+</feed>

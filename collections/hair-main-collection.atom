@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mkbeautyclub.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mkbeautyclub.com/collections/hair-main-collection.atom"/>
+  <title>Mk Beauty Club</title>
+  <updated>2020-11-30T22:35:34-08:00</updated>
+  <author>
+    <name>Mk Beauty Club</name>
+  </author>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4625192714309</id>
+    <published>2020-11-30T22:35:34-08:00</published>
+    <updated>2020-11-30T22:35:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/babylisspro-nano-titanium-spring-curling-iron-1"/>
+    <title>BaBylissPRO Nano Titanium Spring Curling Iron</title>
+    <s:type>Curling Iron</s:type>
+    <s:vendor>BaByliss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/BabylissNanocurlingiron1inchvs11_4inch_7c5a513a-4810-43be-9268-a275a4f7b943.jpg?v=1611645897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BaByliss<br>
+        <strong>Type: </strong>Curling Iron<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>BaBylissPRO Nano Titanium Spring Curling Iron</h1>
+<p>The BaBylissPRO Nano Titanium Spring Curling Iron creates loose waves or textured curls. The Nano titanium barrel uses <strong>far-infrared heat,</strong> heating the hair shaft from within for styling <em>without damage.<br></em>There are 50 heat settings, up to 450F, and a Turbo Heat button to instantly boost heat output for more defined curls.</p>
+<p>The barrel of the iron uses Sol-Gel technology.  They last longer and are more resistant to chemicals.  <br></p>
+<p>Available in 1" and 1 1/4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babyliss</s:tag>
+    <s:tag>best for:curling</s:tag>
+    <s:tag>gift sets</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>hair dryer</s:tag>
+    <s:tag>hair iron</s:tag>
+    <s:tag>hair_best for:curling</s:tag>
+    <s:tag>hair_size:1&quot;</s:tag>
+    <s:tag>holiday 2020</s:tag>
+    <s:tag>limited sale</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>styling</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4625192714309</id>
+      <title>1&quot; Barrel</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>BABNT100SN</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4625192714309</id>
+      <title>1 1/4&quot; Barrel</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>BABANT125SN</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4622797832261</id>
+    <published>2020-11-26T20:05:21-08:00</published>
+    <updated>2020-11-26T20:05:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/diane-razor-comb-d203"/>
+    <title>Diane Hair Thinner Razor Comb</title>
+    <s:type>Hair Tools</s:type>
+    <s:vendor>Diane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/61uD9m55LaL.jpg?v=1611645861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diane<br>
+        <strong>Type: </strong>Hair Tools<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hair</s:tag>
+    <s:tag>styling</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622797832261</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>DID203</s:sku>
+      <s:grams>6435</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4454369001541</id>
+    <published>2020-06-10T15:08:11-07:00</published>
+    <updated>2020-06-10T15:08:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/croc-black-titanium-infrared-1-5-flat-iron"/>
+    <title>Croc Titanium Infrared 1.5&quot; Flat Iron Hair Straightener Black</title>
+    <s:type>Hair Iron</s:type>
+    <s:vendor>Croc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/CROC1-IBT_Front_1024x1024_fe6d363a-e845-4b86-b810-c5c26408eb19.jpg?v=1611645353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Croc<br>
+        <strong>Type: </strong>Hair Iron<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Croc Black Titanium Infrared 1.5" Flat Iron</h1>
+<p>The CROC Classic Black Titanium Infrared 1.5" Flat Iron is a salon quality tool that will allow you to style like a pro. A fully digital unit with 17 temperature options ranging from 280-450 has made this iron a best seller  with professional stylists, as well as home users looking to achieve salon quality results at home. The CROC Classic's specially designed ceramic heating system allows for one-pass styling, saving precious time. The natural production of negative ions and far infrared rays produced by the ceramic heater prevent hair damage and dryness. Hair is left silky and soft. The CROC Classic is the #1 hair iron used for keratin treatments amongst professional stylists.<br></p>
+<h3><span>Key Features:</span></h3>
+<ul>
+<li>
+<em>Infrared technology</em><span> detoxifies and sanitizes hair while reducing heat damage with each pass. The rays are known to increase blood flow, stimulating hair growth.</span>
+</li>
+<li>Smooth titanium plates allow effortless glide</li>
+<li>Ceramic heaters provide instant heat recovery</li>
+<li>Fully digital with 17 custom temperature settings from 280F to 450F</li>
+<li>Dual Voltage 110-240V</li>
+<li>40 minute auto shut off safety feature</li>
+<li>Creates balanced, humidity free styles</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Croc</s:tag>
+    <s:tag>flat iron</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>hair iron</s:tag>
+    <s:tag>hair tools</s:tag>
+    <s:tag>may new</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>Purpose:Straightening</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4454369001541</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>CRTNC15RBB</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/639791366187</id>
+    <published>2018-02-16T14:54:01-08:00</published>
+    <updated>2018-02-16T14:54:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/scalpmaster-shampoo-brush-supply-purple-fingerhole"/>
+    <title>Scalpmaster Shampoo Brush</title>
+    <s:type>Hair Supply</s:type>
+    <s:vendor>Scalpmaster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/BUSC20scalpmasterShampooBrush2.jpg?v=1629233307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scalpmaster<br>
+        <strong>Type: </strong>Hair Supply<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Scalpmaster - Shampoo Brush</h1>
+<p><span style="font-size: 16px;"><span style="font-family: arial; line-height: 18px;">Shampoo brush with finger hole.</span></span></p>
+<p><span style="font-size: 16px;"><span style="font-family: arial; line-height: 18px;"></span></span><span style="font-size: 16px;"><span style="font-family: arial; line-height: 18px;">Purple</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hair</s:tag>
+    <s:tag>hair supply</s:tag>
+    <s:tag>hair_accesories</s:tag>
+    <s:tag>Scalpmaster</s:tag>
+    <s:tag>supply</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/639791366187</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku>BUSC20</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641585348651</id>
+    <published>2017-12-28T19:28:33-08:00</published>
+    <updated>2017-12-28T19:28:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/soft-n-style-8-pc-hair-colorist-tool-kit"/>
+    <title>Soft &apos;N Style Hair Colorist Tool Kit 8 Piece Set</title>
+    <s:type>Hair Color Applicator</s:type>
+    <s:vendor>Soft N Style</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/782_large_e3f798a4-c8f8-4faf-957b-1a27a0f6e983.jpg?v=1598486912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soft N Style<br>
+        <strong>Type: </strong>Hair Color Applicator<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><strong> Soft 'N Style Hair Coloring Tool Kit 8 piece set</strong></h1>
+<span color="#949494"><strong>Kit includes</strong></span>
+<ul class="a-unordered-list a-vertical a-spacing-none" style="box-sizing: border-box; margin: 0px 0px 18px 18px; color: #949494; padding: 0px;" amazon="" ember="" arial="" sans-serif="" font-size:="">
+<li class="showHiddenFeatureBullets" style="box-sizing: border-box; list-style: disc; word-wrap: break-word; margin: 0px 0px 6px 14px; line-height: 17px;"><span class="a-list-item" style="box-sizing: border-box; color: #111111;">Bowl</span></li>
+<li class="showHiddenFeatureBullets" style="box-sizing: border-box; list-style: disc; word-wrap: break-word; margin: 0px 0px 6px 14px; line-height: 17px;"><span class="a-list-item" style="box-sizing: border-box; color: #111111;">2 long-tail dye brushes (regular and long)</span></li>
+<li class="showHiddenFeatureBullets" style="box-sizing: border-box; list-style: disc; word-wrap: break-word; margin: 0px 0px 6px 14px; line-height: 17px;"><span class="a-list-item" style="box-sizing: border-box; color: #111111;">3-in-1 coloring tool</span></li>
+<li class="showHiddenFeatureBullets" style="box-sizing: border-box; list-style: disc; word-wrap: break-word; margin: 0px 0px 6px 14px; line-height: 17px;"><span class="a-list-item" style="box-sizing: border-box; color: #111111;">Jumbo rake comb</span></li>
+<li class="showHiddenFeatureBullets" style="box-sizing: border-box; list-style: disc; word-wrap: break-word; margin: 0px 0px 6px 14px; line-height: 17px;"><span class="a-list-item" style="box-sizing: border-box; color: #111111;">3 long hair clips </span></li>
+<li class="showHiddenFeatureBullets" style="box-sizing: border-box; list-style: disc; word-wrap: break-word; margin: 0px 0px 6px 14px; line-height: 17px;"><span class="a-list-item" style="box-sizing: border-box; color: #111111;">Clear tote</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>applicators</s:tag>
+    <s:tag>Brushes</s:tag>
+    <s:tag>coloring supply</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>Hair Coloring</s:tag>
+    <s:tag>hair coloring tools</s:tag>
+    <s:tag>hair supply</s:tag>
+    <s:tag>Soft N Style</s:tag>
+    <s:tag>supplies</s:tag>
+    <s:tag>supply</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641585348651</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>BUHCK9</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641530560555</id>
+    <published>2017-12-28T19:19:40-08:00</published>
+    <updated>2017-12-28T19:19:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/croc-infrared-turboion-flat-iron-1-inch"/>
+    <title>Croc Premium Infrared Flat Iron Hair Straightener</title>
+    <s:type>Hair Iron</s:type>
+    <s:vendor>Croc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/41EUqR4x3FL.jpg?v=1598475978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Croc<br>
+        <strong>Type: </strong>Hair Iron<br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Croc Hair Flat Iron with Premium Infrared Heat Technology</h1>
+<p>The ultimate tool for creating professional results. The infrared technology allows heat to penetrate the cortex of the hair while protecting its integrity.<br data-mce-fragment="1"></p>
+<ul>
+<li>The curved barrel allows ease of straightening and flat iron curls [without kinks].</li>
+<li>Its deluxe thumb grip and color-changing cool tip makes styling more comfortable and safe.</li>
+<li>Perfect for all hair types, such as color treated and coarse hair.</li>
+</ul>
+<h4>Features</h4>
+<ul>
+<li>
+<div>Infrared technology detoxifies and sanitizes hair while reducing heat damage with each pass. The rays are known to increase blood flow, stimulating hair growth.‌</div>
+</li>
+<li>
+<div>The floating plates move with the hair, creating a smooth glide.‌</div>
+</li>
+<li>
+<div>Deluxe thumb grip, ergonomic design makes styling more comfortable.‌</div>
+</li>
+<li>
+<div>Color-changing cool tip‌</div>
+</li>
+<li>
+<div>The black (proprietary blend) titanium plates lock in moisture and reduce static.‌</div>
+</li>
+<li>
+<div>Negative ions reduce and close cuticles to increase shine.‌</div>
+</li>
+<li>
+<div>The ventilation system releases excess high heat, preventing internal and physical damage.‌</div>
+</li>
+<li>
+<div>Built-in ceramic heaters enable instant heat recovery, providing consistent heat during use.‌</div>
+</li>
+<li>
+<div>Fully digital temperature settings [280F° – 450F°]‌</div>
+</li>
+<li>
+<div>Dual voltage capabilities [110V – 240V]‌</div>
+</li>
+<li>
+<div>Built-in, automatic shut-off, safety feature after 30 minutes of non-use.‌</div>
+</li>
+<li>
+<div>Convenient 9FT swivel cord for easy use and adaptability.</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Croc</s:tag>
+    <s:tag>flat iron</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>hair iron</s:tag>
+    <s:tag>hair tools</s:tag>
+    <s:tag>may new</s:tag>
+    <s:tag>premium</s:tag>
+    <s:tag>Purpose:Straightening</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641530560555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku>CRCROC1-IBT</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/641342668843</id>
+    <published>2017-12-28T18:46:08-08:00</published>
+    <updated>2017-12-28T18:46:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/dye-brush-hair-color-supply"/>
+    <title>Soft N Style - Color Applicator 2&quot; Wide Dye Brush x 2 Pieces</title>
+    <s:type>Hair Color Applicator</s:type>
+    <s:vendor>Soft N Style</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/7ca733e5ef3385a57f59f99980fca23d_b4f5eab7-7270-462d-a28b-94867655377c.jpg?v=1598016535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soft N Style<br>
+        <strong>Type: </strong>Hair Color Applicator<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Soft N Style - Color Applicator 2" Wide Dye Brush x 2 Brushes</h1>
+<p>Available in Black or White</p>
+<h4>Color selection will vary in shipment</h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>applicator brush</s:tag>
+    <s:tag>applicators</s:tag>
+    <s:tag>brand:Soft N Style</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>color applicator</s:tag>
+    <s:tag>coloring supply</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>hair color applicators</s:tag>
+    <s:tag>hair coloring</s:tag>
+    <s:tag>hair coloring tools</s:tag>
+    <s:tag>hair supply</s:tag>
+    <s:tag>supplies</s:tag>
+    <s:tag>supply</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/641342668843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>BU890-2</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/639302533163</id>
+    <published>2017-12-28T13:22:39-08:00</published>
+    <updated>2017-12-28T13:22:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/softnstyle-2wide-dye-brush-display-supply-hair-nail"/>
+    <title>Soft N Style - 2&quot; Wide Dye Brush Display - 36pc</title>
+    <s:type>Hair Color Applicator</s:type>
+    <s:vendor>Soft N Style</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/7ca733e5ef3385a57f59f99980fca23d.jpg?v=1598016573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soft N Style<br>
+        <strong>Type: </strong>Hair Color Applicator<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Soft n style - 2" Wide Dye Brush Display - 36pc </h1>Black / White
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>applicators</s:tag>
+    <s:tag>color applicator</s:tag>
+    <s:tag>coloring supply</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>Hair Coloring</s:tag>
+    <s:tag>hair coloring tools</s:tag>
+    <s:tag>hair supply</s:tag>
+    <s:tag>retail display</s:tag>
+    <s:tag>Soft N Style</s:tag>
+    <s:tag>supplies</s:tag>
+    <s:tag>supply</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/639302533163</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>BU890</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

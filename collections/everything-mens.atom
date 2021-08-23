@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mkbeautyclub.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mkbeautyclub.com/collections/everything-mens.atom"/>
+  <title>Mk Beauty Club</title>
+  <updated>2021-04-17T13:12:00-07:00</updated>
+  <author>
+    <name>Mk Beauty Club</name>
+  </author>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4394151215173</id>
+    <published>2021-04-17T13:12:00-07:00</published>
+    <updated>2021-04-17T13:12:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/wahl-all-star-combo-designer-classic-peanut-8331"/>
+    <title>Wahl All Star Combo Designer &amp; Classic Peanut #8331</title>
+    <s:type>Hair Clipper Combo</s:type>
+    <s:vendor>Wahl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/Wahl_Allstar_Combo_4_1024x1024-Recovered.jpg?v=1611645138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wahl<br>
+        <strong>Type: </strong>Hair Clipper Combo<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clipper with adjustable blades, Includes 6 cutting Guides (1/8''-1'').</p>
+<p>Clipper/trimmer in miniature size includes 4 cutting guides (1/8''-1/2'').</p>
+<p>All Star Combo includes designer clipper with 6 cutting guides; peanut clipper/trimmer with quick-detach blades; 4 cutting guides; red blade guards; cleaning brush; oil and operating instructions </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Star</s:tag>
+    <s:tag>barber</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>designer</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>not mens grooming</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>Wahl</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4394151215173</id>
+      <title>Default Title</title>
+      <s:price currency="USD">74.99</s:price>
+      <s:sku>WA8331</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4392445640773</id>
+    <published>2021-02-03T20:12:31-08:00</published>
+    <updated>2021-02-03T20:12:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/derby-premium-single-edge-razor-blades"/>
+    <title>Derby Premium Single Edge Razor Blades</title>
+    <s:type>Razor Blades</s:type>
+    <s:vendor>Derby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/Derbypremiumsingleedgerazordispenser100pk.jpg?v=1612412284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby<br>
+        <strong>Type: </strong>Razor Blades<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Derby Premium Single Edge Razor Blades Box</h1>
+<ul>
+<li>100 blades </li>
+<li>Each blade is individually wax paper wrapped</li>
+</ul>
+<ul>
+<li>Cutting edges are deposited with Chromium-Ceramic, Tungsten and Platinum</li>
+<li>Advanced Spluttering Equipment for<span> </span><strong>optimum edge strength</strong>, thus longer shaving life</li>
+<li>Coated with a polymer for optimum<span> </span><strong>shaving comfort</strong>
+</li>
+<li>Made of Swedish Steel</li>
+<li>Highest quality blades made to fit different double edge safety razors</li>
+<li>Perforated, hardened and ground by utilizing most advanced equipment</li>
+</ul>
+<p>At every stage of manufacturing process, all Derby Razor Blades are subjected to extreme quality control inspections; by utilization of unique quality control equipment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blades</s:tag>
+    <s:tag>Derby</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens razors</s:tag>
+    <s:tag>mens shaving</s:tag>
+    <s:tag>mens skincare</s:tag>
+    <s:tag>mens_razors</s:tag>
+    <s:tag>razors</s:tag>
+    <s:tag>razors_features:single edge</s:tag>
+    <s:tag>replacements</s:tag>
+    <s:tag>shaving</s:tag>
+    <s:tag>shaving_best for:mens razors</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4392445640773</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>DE20529</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4392445739077</id>
+    <published>2021-02-03T19:55:57-08:00</published>
+    <updated>2021-02-03T19:55:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/derby-premium-double-edge-razor-blades-box-x-100pcs"/>
+    <title>Derby Premium Double Edge Razor Blades Box x 100pcs</title>
+    <s:type>Razor Blades</s:type>
+    <s:vendor>Derby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/derby-premium-razorblades100pack.jpg?v=1612410942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Derby<br>
+        <strong>Type: </strong>Razor Blades<br>
+        <strong>Price: </strong>
+            9.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Derby Premium Double Edge Razor Blades Box</h1>
+<p>100 blades (20 dispensers / 5 blades per dispenser)</p>
+<ul>
+<li>Cutting edges are deposited with Chromium-Ceramic, Tungsten and Platinum</li>
+<li>Advanced Spluttering Equipment for <strong>optimum edge strength</strong>, thus longer shaving life</li>
+<li>Coated with a polymer for optimum <strong>shaving comfort</strong>
+</li>
+<li>Made of Swedish Steel</li>
+<li>Highest quality blades made to fit different double edge safety razors</li>
+<li>Perforated, hardened and ground by utilizing most advanced equipment</li>
+</ul>
+<p> </p>
+<p>At every stage of manufacturing process, all Derby Razor Blades are subjected to extreme quality control inspections; by utilization of unique quality control equipment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blades</s:tag>
+    <s:tag>Derby</s:tag>
+    <s:tag>double edge</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens razors</s:tag>
+    <s:tag>mens shaving</s:tag>
+    <s:tag>mens_razors</s:tag>
+    <s:tag>razors</s:tag>
+    <s:tag>razors_features:double edge</s:tag>
+    <s:tag>replacements</s:tag>
+    <s:tag>shaving</s:tag>
+    <s:tag>shaving_best for:mens razors</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4392445739077</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.25</s:price>
+      <s:sku>DED114PRE</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4635779563589</id>
+    <published>2020-12-16T08:14:12-08:00</published>
+    <updated>2020-12-16T08:14:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/babylisspro-whitefx-metal-trimmer-rob-the-original"/>
+    <title>BabylissPro WhiteFX Metal Trimmer - Rob The Original</title>
+    <s:type>Hair Trimmer</s:type>
+    <s:vendor>Babyliss Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/babyliss-fx787w_c95d73ea-e156-4584-aedd-0645108368e4.jpg?v=1611645993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babyliss Pro<br>
+        <strong>Type: </strong>Hair Trimmer<br>
+        <strong>Price: </strong>
+            157.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>BaBylissPro WhiteFX Metal Lithium Outlining Trimmer - Rob The Original</h1>
+BabylissPro’s new metal lithium outliner.  Limited Edition Rob the Original
+<p><br>This professional cord/cordless tool features an exposed t-blade with 360 degree views, making this the first of it’s kind!  <br>The perfect tool for edging, lining, and other detail work.</p>
+<ul>
+<li>Titanium Deep-Tooth 2.0 MM T-Blade (Zero-Gap Tool Included)</li>
+<li>360 Exposed Blade</li>
+<li>High-Torque Brushless Ferrari-Designed Engine</li>
+<li>All-Metal Housing / Knurled Barbell Grip</li>
+<li>Lithium Ion Battery / 2 Hour Runtime</li>
+<li>Cord/Cordless - Dual Voltage</li>
+<li>Detent Hanging Hook</li>
+<li>Replacement Blade : #FX707G2</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babyliss</s:tag>
+    <s:tag>BabylissPro</s:tag>
+    <s:tag>barber</s:tag>
+    <s:tag>barber supply</s:tag>
+    <s:tag>barber_color:gold</s:tag>
+    <s:tag>barber_color:white</s:tag>
+    <s:tag>cordless</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hair clippers</s:tag>
+    <s:tag>hair trimmer</s:tag>
+    <s:tag>limited edition</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>not mens grooming</s:tag>
+    <s:tag>trimmers</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4635779563589</id>
+      <title>Default Title</title>
+      <s:price currency="USD">157.99</s:price>
+      <s:sku>BAFX787W</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4627236094021</id>
+    <published>2020-12-03T15:17:43-08:00</published>
+    <updated>2020-12-03T15:17:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/andis-x-uppercut-deluxe-pomade-3-5oz"/>
+    <title>Andis x Uppercut Deluxe Pomade 3.5oz</title>
+    <s:type>Pomade</s:type>
+    <s:vendor>Andis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/12285-uppercut-deluxe-andis-deluxe-pomade-100g-left-facing-side.jpg?v=1611644568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Andis<br>
+        <strong>Type: </strong>Pomade<br>
+        <strong>Price: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Andis x Uppercut Deluxe Pomade 3.5oz</h1>
+<ul>
+<li>Water-soluble pomade suitable for a diverse range of styles, washes out easily</li>
+<li>Gives control and definition without the weight of traditional pomades</li>
+<li>Andis Deluxe Pomade has it all - the right amount of shine and hold for timeless, classic looks such a pompadour, side parts and slick backs</li>
+<li>3.5oz tins</li>
+</ul>
+<h3><span style="font-size: 1.4em;">Directions:</span></h3>
+<ol>
+<li>Dry hands, dry hair.</li>
+<li>Rub a small amount through palms and fingers and style as desired.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens hair</s:tag>
+    <s:tag>mens hair_formula:pomade</s:tag>
+    <s:tag>mens styling</s:tag>
+    <s:tag>plural_check</s:tag>
+    <s:tag>pomade</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4627236094021</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>AN12285</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4622797930565</id>
+    <published>2020-11-26T20:05:21-08:00</published>
+    <updated>2020-11-26T20:05:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/diane-deluxe-stainless-steel-straight-razor-black"/>
+    <title>Diane Deluxe Stainless Steel Straight Razor - Black</title>
+    <s:type>Straight Razor</s:type>
+    <s:vendor>Diane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/diane-d77-1_60b2405d-8919-45b8-8dfb-3b802d90a2e4.jpg?v=1611645893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diane<br>
+        <strong>Type: </strong>Straight Razor<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barber</s:tag>
+    <s:tag>barber supply</s:tag>
+    <s:tag>Diane</s:tag>
+    <s:tag>features:stainless steel</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens shaving</s:tag>
+    <s:tag>mens_razors</s:tag>
+    <s:tag>razors</s:tag>
+    <s:tag>shaving</s:tag>
+    <s:tag>shaving tools</s:tag>
+    <s:tag>stainless steel</s:tag>
+    <s:tag>tools</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622797930565</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>DID77</s:sku>
+      <s:grams>6435</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4622797897797</id>
+    <published>2020-11-26T20:05:21-08:00</published>
+    <updated>2020-11-26T20:05:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/diane-reinforced-boar-wave-brush"/>
+    <title>Diane Reinforced Boar Wave Brush</title>
+    <s:type>Hair Brush</s:type>
+    <s:vendor>Diane</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/diane-reinforced-boar-wave-brush_c3f1ba0e-0ea5-47d6-a416-979728f3f199.jpg?v=1611645893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diane<br>
+        <strong>Type: </strong>Hair Brush<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Diane 100% Boar Reinforced Wave Brush</h1>
+<p>The Diane Boar Reinforced Wave Brush is made with nylon reinforced natural boar bristles and a varnished light wood handle. Great for finishing and wave styles. <br></p>
+<p>Ideal for tight curls and coarse to very coarse hair.<br>9" Long</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barber</s:tag>
+    <s:tag>barber supply</s:tag>
+    <s:tag>best for:mens waves</s:tag>
+    <s:tag>Diane</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>hair supply</s:tag>
+    <s:tag>hair_best for:waves</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>styling</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4622797897797</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>DID8159</s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4575577276485</id>
+    <published>2020-09-27T23:16:25-07:00</published>
+    <updated>2020-09-27T23:16:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/babylisspro-blackfx-metal-lithium-outlining-hair-trimmer-fx787b"/>
+    <title>BabylissPro BlackFX Metal Lithium Outlining Hair Trimmer #FX787B</title>
+    <s:type>Hair Trimmers</s:type>
+    <s:vendor>Babyliss Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/aaa_600x800_d2b5d0d8-e251-4747-8d0d-4822b9af678a.jpg?v=1611645639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babyliss Pro<br>
+        <strong>Type: </strong>Hair Trimmers<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>BabylissPro BLACKFX Metal Lithium Outlining Trimmer FX787B</h1>
+<ul>
+<li>360 Exposed Blade</li>
+<li>High-Torque Brushless Ferrari-Designed Engine</li>
+<li>All-Metal Housing / Knurled Barbell Grip</li>
+<li>Lithium-Ion Battery / 2 Hour Runtime</li>
+<li>Cord/Cordless - Dual Voltage</li>
+<li>Detent Hanging Hook</li>
+</ul>
+<h3>Includes:</h3>
+<ul>
+<li>Babybliss BLACKFX Trimmer</li>
+<li>Charger</li>
+<li>Zero-Gap Tool</li>
+<li>Phillips Screwdriver</li>
+<li>Clipper Oil</li>
+<li>Cleaning Brush</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Babybliss</s:tag>
+    <s:tag>BabyblissPro</s:tag>
+    <s:tag>barber</s:tag>
+    <s:tag>barber_color:black</s:tag>
+    <s:tag>check_dup</s:tag>
+    <s:tag>fall 2020</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hair trimmer</s:tag>
+    <s:tag>label:premium</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>not mens grooming</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4575577276485</id>
+      <title>Default Title</title>
+      <s:price currency="USD">169.00</s:price>
+      <s:sku>BAFX787B</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4573317333061</id>
+    <published>2020-09-23T10:23:11-07:00</published>
+    <updated>2020-09-23T10:23:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/suavecito-matte-pomade-4oz"/>
+    <title>Suavecito Matte Pomade 4oz</title>
+    <s:type>Hair Styling</s:type>
+    <s:vendor>Suavecito</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/Suavecito_Matte_Pomade_Side_400x_3a3827f1-ef13-4ef8-8164-2da93a530b32.jpg?v=1611645643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Suavecito<br>
+        <strong>Type: </strong>Hair Styling<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">It’s finally here. The moment you have all been waiting, asking and begging has come. We are extremely proud to say that we have worked tirelessly and vigorously for years to bring you a new Suavecito pomade. We worked from the ground up to perfect this new formula and did not disregard anything we have learned in the many years we’ve been in the pomade business.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">We are extremely excited to present to you our new Matte Pomade. This amazing formula is going to provide you with a unique hold and matte finish. No more of that tugging-hair-out-formula with your comb or brush as with some other products. Our pomade will glide into your hair effortlessly and cleanly allowing you to style with utter ease. This Matte Pomade also has great staying power but washes out with just water. It’s everything you know and love about Suavecito Pomade in a completely matte finish.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Original scent. (You know, the one you love.)</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Staying power throughout the day</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Complete matte finish for a natural healthy look</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Washes out with just water</span></li>
+<li data-mce-fragment="1">Great for: side parts, slick backs, faux hawks, messy looks</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made in the United States</span></li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Directions:<span data-mce-fragment="1"> </span></strong>Apply to dry hair for a true matte experience. Style with brush or fingers for a natural look or style with a comb for that tight appearance. Use water sparingly. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hair</s:tag>
+    <s:tag>Hair Styling</s:tag>
+    <s:tag>matte finish</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens hair</s:tag>
+    <s:tag>mens hair_formula:pomade</s:tag>
+    <s:tag>mens styling</s:tag>
+    <s:tag>pomade</s:tag>
+    <s:tag>styling</s:tag>
+    <s:tag>suavecito</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4573317333061</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>SUP129NN</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4573304160325</id>
+    <published>2020-09-23T09:44:17-07:00</published>
+    <updated>2020-09-23T09:44:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/suavecito-beard-oil-1oz"/>
+    <title>Suavecito Beard Oil 1oz</title>
+    <s:type>Beard Oil</s:type>
+    <s:vendor>Suavecito</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/Suavecito_Pomade_Beard_Oil_2048x_b88fe70f-cc60-4383-a7d9-6879269c1a92.jpg?v=1611645637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Suavecito<br>
+        <strong>Type: </strong>Beard Oil<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">A good beard is one that is well taken care of. A great beard is one that uses serum! This unscented recipe is made up from natural ingredients to ensure you have healthy, well maintained facial hair or mustache. Made from natural ingredients, such as Argan Oil, which is most commonly used to make hair softer, silkier and shinier naturally. It is the ideal hair conditioner to tame frizzy hair. Use this beard oil to condition your beard or your mustache. It is unscented for all day comfort. Works for any beard style or mustache style.</p>
+<p data-mce-fragment="1">Proudly made in the United States.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Softens and conditions beard or mustache</li>
+<li data-mce-fragment="1">Protects against dryness</li>
+<li data-mce-fragment="1">Provides healthy shine</li>
+<li data-mce-fragment="1">Unscented for a comfortable all day wear</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Directions: </strong>Shake bottle gently. Splash a small amount in palm. Rub hands together and work into beard. Massage from root to tip. Comb or brush through.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beard</s:tag>
+    <s:tag>Beard + Moustache</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>Hair Care</s:tag>
+    <s:tag>Hair Styling</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens styling</s:tag>
+    <s:tag>mens_formula:oil</s:tag>
+    <s:tag>mens_styling:oil</s:tag>
+    <s:tag>miles</s:tag>
+    <s:tag>moustache</s:tag>
+    <s:tag>oil</s:tag>
+    <s:tag>suavecito</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4573304160325</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>SUP059NN</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4572831580229</id>
+    <published>2020-09-22T13:05:37-07:00</published>
+    <updated>2020-09-22T13:05:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/wahl-professional-sterling-4-clipper-8700"/>
+    <title>Wahl Professional Sterling 4 Clipper #8700</title>
+    <s:type>Hair Clipper</s:type>
+    <s:vendor>Wahl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/big-image-template_0000s_0002s_0005s_0001_Sterling-41_d8163421-eebe-41f5-a23b-206ba9be9c5c.png?v=1614055176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wahl<br>
+        <strong>Type: </strong>Hair Clipper<br>
+        <strong>Price: </strong>
+            75.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="title _ngcontent-xuy-33">Wahl Professional Sterling 4 Clipper #8700</h1>
+The Sterling 4 Clipper features a V5000 electromagnetic motor allowing a powerful cut on both wet or dry hair.<br>This prevents you from wasting time with drying hair and allows you to glide over spots that switch from wet to dry.
+<p>The blade lever adjusts cutting length quickly and efficiently to save time and energy.</p>
+<h3>Includes:</h3>
+<ul>
+<li>professional clipper with adjustable taper lever</li>
+<li>6 cutting guides (1/8-1”), styling comb, and red blade guard</li>
+<li>cleaning brush and oil</li>
+<li>operating instruction</li>
+</ul>
+Everything you need for professional quality cut. <br>Features a V5000 electromagnetic motor, and 1005 3-hole blade. <br>Made in the U.S.A.
+<ul>
+<li>MOTOR - v5000 Electromagnetic</li>
+<li>UNIT WEIGHT - 1 lb.</li>
+<li>UNIT LENGTH - 6.25"</li>
+<li>BLADE - 1005</li>
+<li>CORD - 8 foot professional grade, chemical resistant</li>
+<li>ACCESSORIES -6 attachment combs, oil, cleaning brush, instructions, and red blade guard</li>
+<li>120V-60HZ</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barber</s:tag>
+    <s:tag>barber accessories</s:tag>
+    <s:tag>barber supply</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>hair clipper</s:tag>
+    <s:tag>hair clippers</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>miles</s:tag>
+    <s:tag>not mens grooming</s:tag>
+    <s:tag>sterling</s:tag>
+    <s:tag>wahl</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4572831580229</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.38</s:price>
+      <s:sku>WA8700</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4572815458373</id>
+    <published>2020-09-22T12:03:14-07:00</published>
+    <updated>2020-09-22T12:03:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/babyliss-pro-goldfx-metal-lithium-outlining-trimmer-fx787g"/>
+    <title>Babyliss GoldFX Skeleton Trimmer #787G</title>
+    <s:type>Hair Trimmers</s:type>
+    <s:vendor>Babyliss Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/babyliss-pro-gold-fx787g-outliner-trimmer.png?v=1611645640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babyliss Pro<br>
+        <strong>Type: </strong>Hair Trimmers<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 data-mce-fragment="1"><span data-mce-fragment="1">Babyliss GoldFX Skeleton Trimmer </span></h1>
+<p data-mce-fragment="1"><span data-mce-fragment="1">BabylissPro's new metal lithium outliner.  This professional cord/cordless tool features an exposed t-blade with 360 degree views, making this the first of it's kind!  The perfect tool for edging, lining, and other detail work.  Welcome to the new gold standard of outliners.  Features:</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Zero gap t-blade with 360 deg. view</li>
+<li data-mce-fragment="1">High torque, brushless, Ferrari designed 7200 RPM motor</li>
+<li data-mce-fragment="1">Lithium ion battery with 2 hour runtime</li>
+<li data-mce-fragment="1">All metal housing with knurled barbell grip</li>
+<li data-mce-fragment="1">Hanging hook</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BabyblissPro</s:tag>
+    <s:tag>Babyliss</s:tag>
+    <s:tag>barber</s:tag>
+    <s:tag>barber supply</s:tag>
+    <s:tag>barber_color:gold</s:tag>
+    <s:tag>feature:lithium ion</s:tag>
+    <s:tag>hair clippers</s:tag>
+    <s:tag>hair trimmer</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>metal</s:tag>
+    <s:tag>not mens grooming</s:tag>
+    <s:tag>t-blade</s:tag>
+    <s:tag>trimmers</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4572815458373</id>
+      <title>Default Title</title>
+      <s:price currency="USD">149.99</s:price>
+      <s:sku>BAFX787G</s:sku>
+      <s:grams>508</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4569272418373</id>
+    <published>2020-09-16T13:59:49-07:00</published>
+    <updated>2020-09-16T13:59:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/suavecito-pomade-bay-rum-aftershave-4-oz"/>
+    <title>Suavecito Bay Rum Aftershave 4 oz</title>
+    <s:type>Aftershave</s:type>
+    <s:vendor>Suavecito</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/Suavecito_Pomade_Bay_Rum_After_Shave_400x_b722eb8f-6258-42de-8921-27e04a226f55.jpg?v=1611645646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Suavecito<br>
+        <strong>Type: </strong>Aftershave<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This Bay Rum scented Aftershave should be an integral part of your routine. With it’s amazing barber shop-esque scent and healing properties it is the perfect aftershave to get your face looking and feeling good. The bay rum is a classic scent that is not too overpowering but not quite subtle. This old school aftershave closes open pores on your face to help prevent irritation, bumps or redness. Also goes to work disinfecting your face post-shave which helps the healing process.</p>
+<p data-mce-fragment="1">Healing and soothing aftershave</p>
+<p data-mce-fragment="1">Prevent razor burn and irritation</p>
+<p data-mce-fragment="1">Unique bay rum scent</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Directions: </strong>For use post shave. Splash a healthy amount on areas shaved. Enjoy the tingling sensation as your skin is healed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accesories</s:tag>
+    <s:tag>after shave</s:tag>
+    <s:tag>aftershave</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens grooming:accessories</s:tag>
+    <s:tag>mens grooming_accessories</s:tag>
+    <s:tag>mens shaving</s:tag>
+    <s:tag>mens skincare</s:tag>
+    <s:tag>mens_accessories</s:tag>
+    <s:tag>shaving</s:tag>
+    <s:tag>shaving_accessories</s:tag>
+    <s:tag>Suavecito</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4569272418373</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>SUP007NN</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4569263865925</id>
+    <published>2020-09-16T13:33:50-07:00</published>
+    <updated>2020-09-16T13:33:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/suavecito-oil-based-pomade-3oz"/>
+    <title>Suavecito Oil-Based Pomade 3oz</title>
+    <s:type>Hair Styling</s:type>
+    <s:vendor>Suavecito</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/suavecito-petroleum-pomade-side_400x_9edc7026-124b-44ae-a77b-63594a4c3e48.jpg?v=1611645644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Suavecito<br>
+        <strong>Type: </strong>Hair Styling<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">This Oil Based Pomade provides a healthy shine and a controlled hold on any hair type. Use it on even the most unruly, thick hair to achieve your desired style - from a smooth slickback to a perfect pomp.</p>
+<p data-mce-fragment="1">Medium hold and shine</p>
+<p data-mce-fragment="1">Perfect for any hair type</p>
+<p data-mce-fragment="1">3 oz collectible tin</p>
+<p data-mce-fragment="1">Original Suavecito fragrance</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Directions:</strong> Start with a small amount and work into hair evenly. Style and add more as needed. Comb to perfection. Good job, you now look amazing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barber supply</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Hair Styling</s:tag>
+    <s:tag>hair type</s:tag>
+    <s:tag>healthy shine</s:tag>
+    <s:tag>medium hold</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens hair</s:tag>
+    <s:tag>mens hair_formula:pomade</s:tag>
+    <s:tag>mens styling</s:tag>
+    <s:tag>miles</s:tag>
+    <s:tag>pomade</s:tag>
+    <s:tag>shine</s:tag>
+    <s:tag>slickback</s:tag>
+    <s:tag>suavecito</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4569263865925</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SU149NN</s:sku>
+      <s:grams>133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4569257869381</id>
+    <published>2020-09-16T13:16:25-07:00</published>
+    <updated>2020-09-16T13:16:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/suavecito-shaving-creme-8-oz"/>
+    <title>Suavecito Shaving Cream 8 oz</title>
+    <s:type>Shaving Cream</s:type>
+    <s:vendor>Suavecito</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/Suavecito_Shave_Cream_Side_400x_8b6929d4-7589-42e8-8aec-44a03ea971d2.jpg?v=1611645639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Suavecito<br>
+        <strong>Type: </strong>Shaving Cream<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>﻿ </p>
+<p>Shave in comfort and ease with Suavecito’s Shaving Cream. This cream is also pre-whipped for ease of use. You will not need a brush if you don’t have one. Simply scoop our rich lathering cream onto your face and work it in. A little of this goes a long way. The natural peppermint opens your pores to get your razor in ultra close. It washes off painlessly with water and does not dry out your skin. Finish up with one of our healing and soothing aftershaves and walk out the door refreshed - ready to take on the day.</p>
+<p>Pre-whipped - no brush needed</p>
+<p>Natural peppermint scent</p>
+<p>Skin soothing</p>
+<p>Long lasting</p>
+<p><strong>Directions: </strong>No need to whip! No brush needed! Warm face with warm water or hot towel. Scoop a healthy amount out with your fingers. Massage and work gently into beard. Enjoy your shave. Rinse with cold water to close pores. Finish with one of Suavecito’s healing aftershaves.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aftershave</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>long lasting</s:tag>
+    <s:tag>men&apos;s shaving and skincare</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens shaving</s:tag>
+    <s:tag>mens shaving_formula:cream</s:tag>
+    <s:tag>mens skincare</s:tag>
+    <s:tag>mens_accessories</s:tag>
+    <s:tag>mens_razors</s:tag>
+    <s:tag>miles</s:tag>
+    <s:tag>razors</s:tag>
+    <s:tag>scentpeppermint</s:tag>
+    <s:tag>shaving</s:tag>
+    <s:tag>shaving_accessories</s:tag>
+    <s:tag>soothing</s:tag>
+    <s:tag>suavecito</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4569257869381</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>SU005NN</s:sku>
+      <s:grams>266</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4558737571909</id>
+    <published>2020-09-05T15:40:17-07:00</published>
+    <updated>2020-09-05T15:40:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/andis-stylist-combo-envy-clipper-gtx-t-outliner-trimmer"/>
+    <title>Andis Stylist Combo Envy Clipper &amp; GTX T-Outliner Trimmer</title>
+    <s:type>Hair Clipper Combo</s:type>
+    <s:vendor>Andis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/SBS-395230-1.jpg?v=1611644565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Andis<br>
+        <strong>Type: </strong>Hair Clipper Combo<br>
+        <strong>Price: </strong>
+            125.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Andis Stylist Combo: Envy Hair Clipper GTX T-Outliner Trimmer #66280</h1>
+<p><strong>Best For</strong>: Clipping, trimming,Â andÂ all-around styling</p>
+<ul>
+<li>Ergonomic design with a high-speed adjustable blade is perfect for all-around styling.</li>
+<li>GTX trimmer equipped with a carbon steel, T-shaped, deep-tooth blade to feed more hair</li>
+<li>Works well with dry or wet hair<br>
+</li>
+</ul>
+<h3>Magnetic Motor120V | 60Hz | Max 7200 SPM</h3>
+<h3>Included Attachments:</h3>
+<li>9 Clipper Attachment Combs:Â  1/16", 3/32", 1/8", 3/16", 1/4", 3/8", 1/2", 3/4", 1"</li>
+<li>4 Trimmer Attachment Combs:Â  1/16", 1/8", 1/4", 3/8"</li>
+<br>
+<h3>Replacement Blades:</h3>
+<li>Clipper Blade: #66240</li>
+<li>TrimmerÂ Blade: #04850</li>
+<br>
+<h3>Professional Envy Clipper #US-1:</h3>
+<li>High-Speed, Adjustable Blade Clipper Perfect For All-Around Styling</li>
+<li>Balanced, Ergonomic Design Feels Smaller And Lighter In Your Hand</li>
+<li>Single Lever Adjusts Clipper Blade From Fine To Coarse (#000 To #1)</li>
+<br>
+<h3>Professional T-Outliner Trimmer #GTX</h3>
+<ul>
+<li>Professional Magnetic Motor Trimmer With Deep-Tooth T-Outliner Blade</li>
+<li>Fine-Cutting Teeth For Extremely Close Cutting</li>
+<li>Ideal For Dry Shaving And All-Around Outlining And Fading</li>
+</ul>
+<h3>Us-1 Professional Envy Clipper</h3>
+<ul>
+<li>High-Speed, Adjustable Blade Clipper Perfect For All-Around Styling</li>
+<li>Balanced, Ergonomic Design Feels Smaller And Lighter In Your Hand</li>
+<li>Whisper-Quiet, Smooth Running Motor Stays Cool</li>
+<li>Single Lever Adjusts Clipper Blade From Fine To Coarse (#000 To #1)</li>
+<li>Hanger Loop Allows For Easy And Convenient Storage</li>
+</ul>
+<h3>GTX Professional T-Outliner Trimmer</h3>
+<ul>
+<li>Professional Magnetic Motor Trimmer With Deep-Tooth T-Outliner Blade</li>
+<li>Fine-Cutting Teeth For Extremely Close Cutting</li>
+<li>Ideal For Dry Shaving And All-Around Outlining And Fading</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>attachments</s:tag>
+    <s:tag>barber</s:tag>
+    <s:tag>brand:Andis</s:tag>
+    <s:tag>combo</s:tag>
+    <s:tag>hair clippers</s:tag>
+    <s:tag>men&apos;s grooming</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>not mens grooming</s:tag>
+    <s:tag>plural_check</s:tag>
+    <s:tag>product line:Envy Clipper</s:tag>
+    <s:tag>product line:T-Outliner</s:tag>
+    <s:tag>replacement</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>trimmers</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4558737571909</id>
+      <title>Default Title</title>
+      <s:price currency="USD">125.99</s:price>
+      <s:sku>AN66280</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4522508812357</id>
+    <published>2020-07-26T22:05:53-07:00</published>
+    <updated>2020-07-26T22:05:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/andis-master-hair-clipper-cordless-silver-adjustable-blade-012470"/>
+    <title>Andis Master Hair Clipper Cordless Silver Adjustable Blade #012470</title>
+    <s:type>Hair Clippers</s:type>
+    <s:vendor>Andis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/images_d064153e-9110-4ae3-820b-84d88d453146.jpg?v=1611644564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Andis<br>
+        <strong>Type: </strong>Hair Clippers<br>
+        <strong>Price: </strong>
+            299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Andis Master Hair Clipper Cordless Silver Adjustable Blade #12470</h1>
+<p><strong>Model # MLC</strong></p>
+<p>1Lithium-ion battery delivers over 90 minutes of nonstop run time; charges in just 1 hour<br></p>
+<p>Extremely powerful, high-speed rotary motor with blade speeds over 7,200 SPM, featuring constant speed technology; won't drag or stall</p>
+<ul>
+<li>Unbreakable, lightweight aluminum housing for years of dependable use</li>
+<li>Iconic, carbon-steel blade is adjustable from fine to coarse (#000 to #1)</li>
+<li>Cord/Cordless operation features an LED light to indicate battery power levels</li>
+<li>Includes premium charging stand</li>
+</ul>
+<h3>Includes:</h3>
+<ul>
+<li>Professional Clipper</li>
+<li>Charger Stand</li>
+<li>Blade Guard</li>
+<li>Operating instructions</li>
+</ul>
+<div id="featurebullets_feature_div" data-feature-name="featurebullets" data-cel-widget="featurebullets_feature_div">
+<ul></ul>
+</div>
+<div id="globalStoreInfoBullets_feature_div" class="celwidget" data-feature-name="globalStoreInfoBullets" data-cel-widget="globalStoreInfoBullets_feature_div">
+<div id="descriptionAndDetails" class="a-section a-spacing-extra-large">
+<div id="productDescription_feature_div" class="celwidget" data-feature-name="productDescription" data-cel-widget="productDescription_feature_div">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div">
+<div id="productDescription" class="a-section a-spacing-small"></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Andis</s:tag>
+    <s:tag>barber</s:tag>
+    <s:tag>clipper feature:cordless</s:tag>
+    <s:tag>color:chrome</s:tag>
+    <s:tag>feature:adjustable blade</s:tag>
+    <s:tag>hair clippers</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>not mens grooming</s:tag>
+    <s:tag>plural</s:tag>
+    <s:tag>plural_check</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4522508812357</id>
+      <title>Default Title</title>
+      <s:price currency="USD">299.99</s:price>
+      <s:sku>AN12470</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4478352949317</id>
+    <published>2020-06-16T15:42:15-07:00</published>
+    <updated>2020-06-16T15:42:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/wahl-blade-oil-4oz"/>
+    <title>Wahl Professional Clipper Blade Oil 4oz | 118.3mL</title>
+    <s:type>Clipper Oil</s:type>
+    <s:vendor>Wahl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/61zdpKg76IL.jpg?v=1611645361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wahl<br>
+        <strong>Type: </strong>Clipper Oil<br>
+        <strong>Price: </strong>
+            4.99 - 24.95
+            <a href="https://mkbeautyclub.com/products/wahl-blade-oil-4oz">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-details" data-product-details="">
+<div>
+<h1>Wahl Professional Clipper Blade Oil 4oz | 118.3mL</h1>
+<p>Designed specially for Wahl's professional clippers with just the right viscosity to keep blades running fast and smooth. </p>
+<p>Wahl clipper blade oil helps prolong the life of blades while maintaining their cutting precision. Keeping blades sharper for longer with regular use means less maintenance is required overall. In addition to reducing friction, this hair clipper blade oil prevents rust from forming. Apply just a few drops after every few haircuts, and you can prevent corrosion, friction and wear and tear from slowing you down. </p>
+<p>Wahl Professional Clipper Blade Oil, 4 oz comes in an easy-to-use squeeze bottle for convenient application, and it can be easily stored in a drawer or medicine cabinet.<br><b></b></p>
+<p> <b>Wahl 3310 Clipper and Trimmer Oil, 4-oz Squeeze Bottle:</b></p>
+<ul>
+<li>Specially prepared for Wahl electric clippers and trimmers</li>
+<li>Good for prolonging the life of blades</li>
+<li>Helps maintain blades’ edges for extended cutting precision</li>
+<li>Can reduce the friction and heat often caused by under-lubricated blades</li>
+<li>Prevents rust from forming on clippers/trimmers, keeping them in top condition for longer</li>
+<li>Wahl clipper blade oil comes in an easy-to-use 4-oz squeeze bottle</li>
+<li>Special tip allows for mess-free, precise application just where oil is needed</li>
+<li>Apply a few drops after every few haircuts to keep your clipper or trimmer in peak condition</li>
+</ul>
+</div>
+</div>
+<div class="product-form--regular" data-product-form-regular="">
+<div data-product-form-area=""><form method="post" action="https://nrsworld.com/cart/add" id="product_form_2626868969572" accept-charset="UTF-8" class="" enctype="multipart/form-data" data-productid="2626868969572" data-product-form="">
+<div class="product-form--atc">
+<div class="product-form--atc-qty form-fields--qty" data-quantity-wrapper="">
+<div class="form-field form-field--qty-select">
+<div class="form-field-select-wrapper"><span></span></div>
+</div>
+</div>
+</div>
+</form></div>
+</div>
+<div class="product-description rte" data-product-description=""></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barber</s:tag>
+    <s:tag>barber accessories</s:tag>
+    <s:tag>clipper maintenance</s:tag>
+    <s:tag>maintenance</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>not mens grooming</s:tag>
+    <s:tag>supply</s:tag>
+    <s:tag>Wahl</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4478352949317</id>
+      <title>12 Piece Display</title>
+      <s:price currency="USD">24.95</s:price>
+      <s:sku>WA3310-12</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4478352949317</id>
+      <title>1 Bottle</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>WA3310</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4392445935685</id>
+    <published>2020-06-12T19:28:39-07:00</published>
+    <updated>2020-06-12T19:28:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/wahl-gold-super-close-foil-7031-200"/>
+    <title>Wahl Gold Replacement Foil 5 Star Shaver - Super Close #7031-200</title>
+    <s:type>Replacement Blades</s:type>
+    <s:vendor>Wahl</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/9ff6d460-03ad-4924-954f-915a2d906afc_1.png?v=1611645096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wahl<br>
+        <strong>Type: </strong>Replacement Blades<br>
+        <strong>Price: </strong>
+            16.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Wahl 5 Star Series Replacement Foil #7031-200</h1>
+<h3>Gold Foil Shaver / Shaper - "Super Close"</h3>
+<ul>
+<li>PROFESSIONAL CARE: From Wahl Professional's commercial grade line of products, the 5-Star Series Replacement Foil is designed for professional use only with the Wahl 5-Star Series #8061-100, 8061, and 8547 Shavers.</li>
+<li>FOR SUPER CLOSE SHAVING: The 5-Star Series Replacement Foil is your all-in-one replacement package for the Wahl Professional 5-Star Series Shaver. This shaver cuts razor close for the ultimate finishing job on a variety of cuts.</li>
+<li>HYPO-ALLERGENIC FOIL: Designed to get the closest shave possible without being painful or irritating, the replacement package includes hypo-allergenic gold foil which prevents bumps and cutter bar assembly for a like-new shaver.</li>
+<li>PRODUCT SPECIFICATIONS: Package includes (1) Wahl Professional 5-Star Series Replacement Foil (#7031-200). Compatible only with the Wahl 5-Star Series Shaver #8061-100 (not included).</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>barber</s:tag>
+    <s:tag>electric shavers</s:tag>
+    <s:tag>length:super close</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens shaving</s:tag>
+    <s:tag>shaving tools</s:tag>
+    <s:tag>tools</s:tag>
+    <s:tag>Wahl</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4392445935685</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.50</s:price>
+      <s:sku>WA7031-200</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4449460682821</id>
+    <published>2020-06-09T22:29:30-07:00</published>
+    <updated>2020-06-09T22:29:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/clubman-moustache-beard-wax-5oz"/>
+    <title>Clubman Moustache + Beard Wax .5oz</title>
+    <s:type>Moustache Wax</s:type>
+    <s:vendor>Clubman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/Clubman_Moustache_Wax_Black_2__08641.jpg?v=1611645320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clubman<br>
+        <strong>Type: </strong>Moustache Wax<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Clubman Men's Moustache Wax</h1>
+<p>For Moustaches, Beards and Sideburns. The original Pinaud Clubman Moustache Wax has been famous since 1810 for grooming, styling &amp; colour touch-ups for moustaches, beards and sideburns. This is a temporary wax which lasts all day and then easily washes out. It is regarded as a high quality, excellent performance wax which is easily applied as it is a creamy (but not sticky) formula. The Clubman Moustache Wax is available in different colours as well as neutral, making it ideal for concealing grey hairs.</p>
+<p>The Clubman Moustache wax is made with a base of pure beeswax and naturally derived coconut oil, plus specific ingredients to add control, volume and condition. Clubman uses a food grade preservative to minimise the possibility of irritation and skin sensitivity. Application lasts all day and is easily washed out.</p>
+<p><strong>Available in 4 different colours: Black, Neutral, Brown and Chestnut.</strong></p>
+<h2>Features:</h2>
+<ul>
+<li>Excellent for training new moustaches, beards, sideburns and controlling unruly hair.</li>
+<li>Colour touch-up to cover gray or blend in faded or streaked hair.</li>
+<li>Keeps bushy eyebrows in place.</li>
+<li>Greaseless....pleasantly scented.</li>
+<li>Water soluble...washes out easily.</li>
+<li>Tube can be sealed and reused.</li>
+<li>Contains a comb/ brush for easy application.<br>
+</li>
+</ul>
+<p><strong>Size:<span> </span></strong>(14g / 0.5 oz)</p>
+<p><strong>Directions:</strong><span> </span>Apply a small amount of Moustache Wax directly on hair. Comb through and style. Use brush side for final grooming.</p>
+<p><strong>Ingredients:</strong><span> </span>Beeswax, Water, Potassium Aleate, Potassium Palmit</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beard</s:tag>
+    <s:tag>Clubman</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens styling</s:tag>
+    <s:tag>moustache</s:tag>
+    <s:tag>moustache wax</s:tag>
+    <s:tag>styling</s:tag>
+    <s:tag>wax</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4449460682821</id>
+      <title>Black</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>CL070622</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4449460682821</id>
+      <title>Chestnut</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>CL070642</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4449460682821</id>
+      <title>Neutral</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>CL070639</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4449460682821</id>
+      <title>Brown</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>CL070624</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4447428247621</id>
+    <published>2020-06-08T11:08:42-07:00</published>
+    <updated>2020-06-08T11:08:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/andis-slimline-ion-cord-cordless-trimmer-25190"/>
+    <title>Andis Slimline Ion Cord Cordless Trimmer</title>
+    <s:type>Hair Trimmer</s:type>
+    <s:vendor>Andis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/jfesjijze8unumh3swnw_1.jpg?v=1611644564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Andis<br>
+        <strong>Type: </strong>Hair Trimmer<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Andis Slimline Ion Lithium Ion Trimmer - Cord/Cordless</h1>
+<p><strong> BEST FOR</strong>: Shaping and trimming necklines, beards, and moustaches</p>
+<ul>
+<li>Features Lithium ion power for up to 2 hours of non-stop trimming;</li>
+<li>Recharges to full power in 2 hours.</li>
+<li>Perfect for trimming beards, moustaches, necklines, outlining and edging around ears.</li>
+<li>Fine cutting teeth for extremely close trimming.</li>
+<li>Sleek, ergonomic design contoured to fit your hand.</li>
+<li>Multi-voltage charger.</li>
+<li>Rotary Motor</li>
+<li>MAX 6000SPM</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Andis</s:tag>
+    <s:tag>barber</s:tag>
+    <s:tag>barber supply</s:tag>
+    <s:tag>barber_features:cordless</s:tag>
+    <s:tag>barber_features:rechargeable</s:tag>
+    <s:tag>hair clippers</s:tag>
+    <s:tag>Hair Clippers &amp; Accessories</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens_best for:outlining</s:tag>
+    <s:tag>mens_best for:shaping</s:tag>
+    <s:tag>mens_best for:trimming</s:tag>
+    <s:tag>moustache</s:tag>
+    <s:tag>not mens grooming</s:tag>
+    <s:tag>plural_check</s:tag>
+    <s:tag>trimmers</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4447428247621</id>
+      <title>Default Title</title>
+      <s:price currency="USD">53.99</s:price>
+      <s:sku>AN25190</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4438732767301</id>
+    <published>2020-05-29T15:04:28-07:00</published>
+    <updated>2020-05-29T15:04:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/lucky-tiger-hair-tonic-16oz"/>
+    <title>Lucky Tiger Hair Tonic 16oz</title>
+    <s:type>Aftershave</s:type>
+    <s:vendor>Lucky Tiger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/3_purpose_hair_tonic1_600x600_eb11ce1a-274f-46db-b515-531aa4e16213.jpg?v=1611645320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Tiger<br>
+        <strong>Type: </strong>Aftershave<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Only one thing better than two¦and that<span>'</span>s three. Our Three Purpose Hair Tonic grooms your hair, stimulates the scalp and conditions your hair to keep it healthy all day. Made with fine oils to nourish your hair it<span>'</span>s a great start to keeping your hair how and where you want...</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>after shave</s:tag>
+    <s:tag>aftershave</s:tag>
+    <s:tag>Lucky Tiger</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens shaving</s:tag>
+    <s:tag>mens skincare</s:tag>
+    <s:tag>mens_accessories</s:tag>
+    <s:tag>shaving_accessories</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4438732767301</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>LT16172</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4438728867909</id>
+    <published>2020-05-29T15:00:12-07:00</published>
+    <updated>2020-05-29T15:00:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/lucky-tiger-aspen-after-shave-16oz"/>
+    <title>Lucky Tiger ASPEN After Shave 16oz</title>
+    <s:type>Aftershave</s:type>
+    <s:vendor>Lucky Tiger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/aspen1_600x600_62f83d03-7355-4de2-ab19-e5b6ea04d91c.jpg?v=1611645320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Tiger<br>
+        <strong>Type: </strong>Aftershave<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Want to be instantly cool? Done! With this refreshing, toning and cooling after shave <span>you'll</span> wonder why you haven<span>'</span> been using this ever since you were old enough to shave. Combine a truly masculine scent that delivers a fresh spicy aroma, and <span>you're</span> not the only person who<span>'</span>ll think <span>you're</span>..</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>after shave</s:tag>
+    <s:tag>aftershave</s:tag>
+    <s:tag>Lucky Tiger</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens shaving</s:tag>
+    <s:tag>mens skincare</s:tag>
+    <s:tag>mens_accessories</s:tag>
+    <s:tag>shaving_accessories</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4438728867909</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>LTCS16332</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4438702555205</id>
+    <published>2020-05-29T14:54:59-07:00</published>
+    <updated>2020-05-29T14:54:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/lucky-tiger-after-shave-bay-rum-16oz"/>
+    <title>Lucky Tiger After Shave Bay Rum 16oz</title>
+    <s:type>Aftershave</s:type>
+    <s:vendor>Lucky Tiger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/bay_rum1_600x600_1b3a64d0-2160-4e1b-b92b-4784b07d8705.jpg?v=1611645320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Tiger<br>
+        <strong>Type: </strong>Aftershave<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>A classic barbershop after shave never goes out of style. Our Bay Rum (great name or what¦) after shave cools, invigorates and refreshes your face and neck after a clean close shave. Splash it on to stimulate your skin, tighten pores and get the feeling of œWow. For the ultimate...</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>after shave</s:tag>
+    <s:tag>aftershave</s:tag>
+    <s:tag>Lucky Tiger</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens shaving</s:tag>
+    <s:tag>mens skincare</s:tag>
+    <s:tag>mens_accessories</s:tag>
+    <s:tag>shaving_accessories</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4438702555205</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>LTCS16361</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mkbeautyclub.com/products/4438695510085</id>
+    <published>2020-05-29T14:46:19-07:00</published>
+    <updated>2020-05-29T14:46:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mkbeautyclub.com/products/lucky-tiger-after-shave-face-tonic-8oz"/>
+    <title>Lucky Tiger After Shave &amp; Face Tonic 8oz</title>
+    <s:type>Aftershave</s:type>
+    <s:vendor>Lucky Tiger</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2641/1040/products/LUC00130-Lucky-Tiger-Premium-aftershave-tonic_x1024_b22f73c4-538b-4ef7-97c9-2d4b5beac1f9.jpg?v=1611645246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucky Tiger<br>
+        <strong>Type: </strong>Aftershave<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>With a subtle citrus scent, Lucky Tiger Premium After Shave and Face Tonic invigorates, tones and soothes the skin after shaving. It boasts a gentle, alcohol-free formula and contains natural, organic botanicals like aloe vera, Calendula and chamomile. Combined, these natural ingredients cool, refresh and brighten the complexion while borage oil gently rehydrates the skin.</span><br><br><span>Lucky Tiger is a company that has provided consumers with high-quality hair care products since it was trademarked in 1935. Even earlier than that, the company's first product, Lucky Tiger Tonic, enjoyed brisk sales out of the company founder's barbershop. The brand currently features multiple lines of products to meet consumers' skin care, personal care and shaving needs.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>after shave</s:tag>
+    <s:tag>aftershave</s:tag>
+    <s:tag>Lucky Tiger</s:tag>
+    <s:tag>mens</s:tag>
+    <s:tag>mens grooming</s:tag>
+    <s:tag>mens shaving</s:tag>
+    <s:tag>mens skincare</s:tag>
+    <s:tag>mens_accessories</s:tag>
+    <s:tag>shaving_accessories</s:tag>
+    <s:tag>skin care</s:tag>
+    <s:variant>
+      <id>https://mkbeautyclub.com/products/4438695510085</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>LTCS00130</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>
